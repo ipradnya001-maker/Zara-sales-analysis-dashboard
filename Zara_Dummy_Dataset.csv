@@ -1,0 +1,501 @@
+Order_ID,Customer_Name,Email,Phone,Category,Subcategory,Product_Name,Size,Color,Quantity,Unit_Price,Payment_Method,Purchase_Date,Store_Location,Total_Price
+2bcf25df-3e5c-4b12-8305-e62752a188ce,James Lane,john10@cooper-kennedy.com,+1-350-845-4045x9938,Men,Shoes,Shoes - Ten,XL,White,3,6597.01,Wallet,2025-01-16,Mumbai,19791.03
+2c8add37-572c-4912-a48b-cf6ef1037551,Morgan Sandoval,alexanderterry@humphrey.com,(119)916-1629x671,Men,Jeans,Jeans - Believe,XS,Beige,3,1931.14,UPI,2025-09-01,Bangalore,5793.42
+b3d3854d-ff1f-48c6-8442-0199dda402de,Lorraine Hebert,cody55@osborne.net,948-707-2272x53471,Kids,Sneakers,Sneakers - Store,L,Blue,4,3283.42,UPI,2025-09-10,Bangalore,13133.68
+ea922ea1-3409-4c80-8c87-f67c56f43f17,Kathryn Aguilar,bbrown@hernandez-dean.com,(990)987-3130,Men,Jeans,Jeans - Test,S,Grey,4,3495.95,UPI,2025-09-03,Bangalore,13983.8
+8ecdc7d2-f55c-4037-826f-b9a13453591b,Nicole Wong,juarezstephanie@gmail.com,001-008-902-2056,Men,T-Shirts,T-Shirts - Government,XS,White,5,4159.89,Credit Card,2025-04-29,Mumbai,20799.45
+aa8725c5-5035-43f2-96d2-4a400d5aec8f,Brent Lopez,dennis94@lewis.com,(499)677-1385x41130,Men,Jeans,Jeans - Culture,M,Grey,4,6860.19,Credit Card,2025-05-27,Mumbai,27440.76
+a5b1a025-7c61-4066-a5a5-7918ab94c6bb,Lynn Barnes,sara63@bruce.biz,861-157-5940x36883,Kids,Sneakers,Sneakers - Consumer,XXL,Green,5,5780.47,Wallet,2025-08-02,Hyderabad,28902.35
+c6794617-5128-47b6-a9cf-1e2ebff40d56,Jeffrey Lynch,xpierce@gmail.com,8485904740,Women,Jeans,Jeans - Chair,XL,Yellow,4,1870.37,Wallet,2025-05-19,Hyderabad,7481.48
+9cc2dd8a-af7f-496e-8f31-3f7409539c05,Ashley Mosley,tyronemorrison@murphy.com,(582)472-2927,Kids,T-Shirts,T-Shirts - Beat,XS,Red,3,7784.22,Wallet,2025-08-05,Mumbai,23352.66
+d77e1616-98d6-45f1-b5ff-a487b05a594d,Krystal Brown,pnichols@richards.org,0661287319,Women,Dresses,Dresses - Sister,XS,Grey,4,6114.45,Credit Card,2025-04-17,Kolkata,24457.8
+41a093cc-6a01-4702-87c1-d8619a959f34,Tracy Bass,amanda88@hotmail.com,744.292.4920x3812,Kids,Sneakers,Sneakers - Create,L,Black,5,6167.42,Cash on Delivery,2024-12-31,Delhi,30837.1
+ed6c6952-5a68-4fb2-b3db-b3c4ae8fb11a,Robert Burton,vrojas@huerta.info,868.124.5527,Kids,T-Shirts,T-Shirts - Wear,XL,Red,4,6669.97,UPI,2024-09-22,Delhi,26679.88
+49021e12-93de-49df-b7bf-d25cea87b3f6,Thomas Welch,ashley76@rodriguez.biz,972-529-4505x636,Kids,Shorts,Shorts - Heavy,M,White,3,1124.69,Debit Card,2025-05-11,Mumbai,3374.07
+a1eeba26-d892-4230-b776-43bd65770c28,David Juarez,ibuckley@calderon.info,808-339-8039x9056,Men,Shirts,Shirts - Policy,S,Grey,2,7771.06,Debit Card,2024-10-31,Ahmedabad,15542.12
+a901a422-8b26-4857-a0c7-0b4048dfd295,Ronald Schmitt,csimmons@hotmail.com,163-258-9301x330,Men,T-Shirts,T-Shirts - Area,XS,Pink,2,5947.48,Debit Card,2025-03-22,Bangalore,11894.96
+153a92bc-ea4b-4349-9c63-a9fc28d1c276,Timothy Porter,beth12@lewis.biz,7188245337,Women,Bags,Bags - Central,XXL,Green,1,1322.42,Debit Card,2025-03-03,Chennai,1322.42
+7f539701-dc9b-4add-ac42-753c97e81413,Tamara Malone,hobbspamela@yahoo.com,+1-296-588-3287x6917,Kids,Shorts,Shorts - What,XS,Blue,5,1007.1,Debit Card,2025-09-08,Bangalore,5035.5
+5a292fcc-e90b-4895-970c-fa774081028c,Steven Crawford,hansenjoshua@hotmail.com,665.690.1888x9716,Men,T-Shirts,T-Shirts - Address,XS,Brown,1,5181.33,Credit Card,2025-02-12,Bangalore,5181.33
+90908e6a-f9aa-4b5e-8f07-6480f1d85b70,Mikayla Shepard,jonathan48@gmail.com,105.433.9185x0419,Kids,Sneakers,Sneakers - Boy,L,Black,3,4744.43,Debit Card,2025-08-07,Pune,14233.29
+74415920-3993-4596-a077-612e09f1db89,Jason Gomez,colton46@ross.com,695.221.6796x6083,Women,Tops,Tops - Hotel,M,Beige,5,7946.21,Wallet,2024-11-11,Delhi,39731.05
+23e83629-2b0b-43a2-9b08-39a9dc15d493,Christina Brewer,renee56@hotmail.com,698.459.9454x73430,Men,Jackets,Jackets - Provide,XL,Red,1,7222.02,UPI,2024-09-17,Mumbai,7222.02
+447b1279-af3c-42e6-b34d-507b51dd19bf,Michelle Smith,eburgess@yahoo.com,001-755-430-2476,Women,Heels,Heels - Successful,XXL,Black,3,2005.42,Debit Card,2025-06-26,Pune,6016.26
+028c73d6-3ce8-43c2-a773-399dc8c57847,Eugene Duran,courtneycooper@gmail.com,564-982-7365x38240,Women,Bags,Bags - Blood,S,Pink,3,3856.78,Credit Card,2025-06-09,Ahmedabad,11570.34
+b27399db-582f-4781-9ceb-cbe0abf5fec8,Charles Lopez,hillmeghan@mason.com,+1-116-534-0645,Women,Dresses,Dresses - Admit,L,Green,4,5102.71,Debit Card,2025-06-02,Kolkata,20410.84
+c9ff705b-73a1-40eb-be25-924b280733ee,Adam Moyer,mollygonzalez@ruiz.com,610-364-3279x133,Men,Shirts,Shirts - Theory,L,Yellow,3,1709.26,Debit Card,2024-12-28,Ahmedabad,5127.78
+afadde27-d440-4a49-ae2e-8871b8fbb31f,Mrs. Erica Gonzalez,marcuswarner@everett.com,(801)918-1710x2280,Kids,Jackets,Jackets - Throw,XL,White,2,3540.92,UPI,2025-08-03,Kolkata,7081.84
+db00e76a-5c99-4c1a-9b05-905416bf2fed,Cheryl Garcia MD,powelljoshua@gmail.com,516-632-1000x70302,Kids,T-Shirts,T-Shirts - Pm,L,Red,1,1518.67,Credit Card,2025-08-03,Bangalore,1518.67
+1dbaa0ec-9f84-4bd2-9c78-8a028801c6ab,Brett Ballard,jamesrobles@anderson.com,571.887.5802x223,Men,T-Shirts,T-Shirts - Exactly,XL,Brown,4,1393.62,Cash on Delivery,2025-07-22,Ahmedabad,5574.48
+d5fbde5f-0cce-4586-831d-ffe7940bca6c,Cody Turner,floresjonathan@evans.com,276-822-4647x2821,Women,Jeans,Jeans - Least,XS,Blue,4,2528.1,Cash on Delivery,2025-03-16,Chennai,10112.4
+c88a90f3-fd5e-41bb-821a-8c2b1e4e9d30,Daniel Patterson,christopher75@watson.biz,933-310-2828,Men,Shirts,Shirts - Woman,XXL,Grey,4,7552.08,Debit Card,2024-10-27,Hyderabad,30208.32
+2f4b764e-d116-49d4-9023-d10466c9bc36,Martin Hernandez,jason65@yahoo.com,560-834-3803x99170,Women,Tops,Tops - Also,S,Grey,1,6135.7,Debit Card,2025-08-07,Mumbai,6135.7
+b7fceed9-2d58-4f25-a199-74ce4ebe9e69,Frank Bowman,alexis25@gmail.com,645-464-0039,Men,Shoes,Shoes - Democrat,XXL,Brown,5,5391.79,Cash on Delivery,2025-05-09,Chennai,26958.95
+ff0a2950-da23-4754-8b32-5d930aa43e82,Larry Sullivan,lori00@hotmail.com,4381453947,Men,Jeans,Jeans - Save,L,Pink,4,7832.22,UPI,2024-11-09,Bangalore,31328.88
+b095a1ac-c521-4c19-a7fb-f2534c082e09,Bradley Reed,pauladuncan@jimenez-craig.com,(733)071-8747,Women,Bags,Bags - Positive,XXL,Brown,3,7718.82,Debit Card,2025-01-25,Mumbai,23156.46
+12fe3bfc-6f0a-4b75-bde9-aa9b13ef0d7f,Ethan Nichols,sydneyhall@yahoo.com,274-149-5510x8179,Kids,Jackets,Jackets - Listen,S,Green,4,1658.07,Cash on Delivery,2024-10-29,Bangalore,6632.28
+5b1c2832-f59d-4521-929f-cb0a39683ad8,Paul Yang,wblair@callahan-hall.com,+1-573-988-3580x717,Women,Heels,Heels - Western,XS,Pink,4,6987.17,Debit Card,2025-06-22,Kolkata,27948.68
+706a27cf-1e63-4607-9ca4-786f001f4295,Stephen Smith,pwilson@hotmail.com,283.137.9299x38653,Men,Shirts,Shirts - Even,M,Brown,1,6576.19,Credit Card,2025-08-15,Bangalore,6576.19
+723a84bb-2242-4cef-95f8-554e91b7d87a,Rebecca Brown,andrewsthomas@gmail.com,(542)042-4547x22864,Kids,Jackets,Jackets - Stage,XS,Yellow,3,4599.84,Wallet,2025-06-22,Bangalore,13799.52
+eacaf2f5-a09d-4a1e-8511-cf787d7d35bc,Harold Gaines,barbara08@yahoo.com,9513157260,Kids,Sneakers,Sneakers - Again,XXL,Pink,5,1411.13,Credit Card,2025-05-08,Bangalore,7055.65
+a19a0b2f-67e5-43f6-b10c-5f5c7a7f98b5,Jesse Ballard,qwalker@arroyo.com,+1-663-875-1750,Men,Shoes,Shoes - Least,S,White,1,2628.66,Wallet,2025-07-16,Hyderabad,2628.66
+073e369d-4824-44b3-a7c8-26a05a314fbf,Amanda Christian,bryan19@holt-woods.com,635-202-4762,Women,Heels,Heels - Three,XS,Beige,1,2717.39,Credit Card,2025-02-17,Hyderabad,2717.39
+6f69881e-3e0b-4671-82ae-2a7119c7372d,Margaret Smith,bdelacruz@rich-smith.biz,398-118-5534,Kids,Jackets,Jackets - Whatever,M,Beige,2,3924.36,Credit Card,2025-07-18,Ahmedabad,7848.72
+98612eb4-a8c9-42e5-b50c-a4ed89439eee,Rodney Davis,donald71@gmail.com,001-007-032-9124,Women,Dresses,Dresses - Record,L,Black,4,2031.17,Debit Card,2024-09-22,Ahmedabad,8124.68
+80354c1c-7a55-4261-9922-0e4245c879c6,Andrew Wilson,ashleyjenkins@huber.com,001-703-643-4963,Men,Shoes,Shoes - From,M,White,3,3848.57,Wallet,2025-08-16,Kolkata,11545.71
+da4a3db2-b16f-422e-8d76-a33d11f5466c,Mrs. Sheila Sheppard MD,jonescharles@hotmail.com,+1-324-194-5604x6577,Men,Jeans,Jeans - Write,L,Brown,5,3468.39,Cash on Delivery,2025-02-11,Ahmedabad,17341.95
+6c0b8d47-bd7c-40f1-97e2-357562eb7f8c,Lauren Arias,dixonpeggy@johnson.com,+1-092-020-1596,Kids,Sneakers,Sneakers - Half,XS,Pink,1,1888.71,Cash on Delivery,2025-02-04,Kolkata,1888.71
+ff879446-a30a-440a-8078-8e00bef9e2d4,Jill Payne,walkerdavid@gmail.com,001-230-940-6357,Women,Tops,Tops - Environment,XXL,Black,2,2926.89,Wallet,2025-02-19,Bangalore,5853.78
+33794b79-fc73-48e1-8cfd-3f268fdb0d75,Christina Rogers,wmoreno@hotmail.com,+1-621-584-0254x3633,Men,Shoes,Shoes - Or,M,Beige,3,580.16,Cash on Delivery,2025-06-11,Kolkata,1740.48
+9acde429-1be4-4e4b-965b-77c4de07e377,Jesse Bryant,martinryan@wood-white.org,208-986-5087,Women,Jeans,Jeans - Chance,L,Beige,1,1791.63,Cash on Delivery,2025-09-12,Pune,1791.63
+cd1dd6b2-83cb-4a99-a640-ba9f5c3b8f8d,Nathan Campbell,courtneyjohnson@gmail.com,021-496-2027x981,Women,Bags,Bags - Owner,L,Beige,3,7620.81,Credit Card,2024-12-23,Ahmedabad,22862.43
+c29d751e-ed30-42af-8286-fad06baf6783,Stephen Rowe,nealaaron@king.com,(319)587-8337,Men,Jeans,Jeans - Professional,S,Brown,2,4832.47,Cash on Delivery,2025-07-16,Ahmedabad,9664.94
+0c811dd0-7a1a-4919-9689-23bd28e5ea40,Dawn Galloway,gmarsh@hughes.com,(462)382-2994x32678,Men,Shoes,Shoes - Cell,XL,Beige,1,5680.48,Debit Card,2024-09-29,Ahmedabad,5680.48
+d96181cf-9d5a-422d-886e-68e5e246d411,Kristin Griffin,wesleyjones@yahoo.com,149-572-6895x91659,Kids,Shorts,Shorts - Body,M,Blue,4,7668.27,Credit Card,2024-11-06,Hyderabad,30673.08
+2e0d7886-9d89-4888-ae64-2bbab1a7fbd5,Ronald Taylor,katherinegarza@mathis.org,517-278-8309x1562,Women,Dresses,Dresses - Skill,XXL,Red,4,4532.78,UPI,2025-03-28,Mumbai,18131.12
+8065c7f8-23af-41ce-b330-d8e433621cb1,Timothy Blackwell,warmstrong@taylor.com,001-548-066-1873x726,Women,Bags,Bags - Majority,XXL,Brown,2,6405.17,Cash on Delivery,2024-11-06,Ahmedabad,12810.34
+d7dd1ce6-2278-4a6e-a567-33b384233663,David Nelson,cnewman@hotmail.com,961-400-7058x5784,Women,Tops,Tops - To,S,Blue,2,6070.79,Cash on Delivery,2025-09-08,Mumbai,12141.58
+166e3174-cbca-4981-99c5-275697b51fb7,Jorge Williams,estesstephen@gmail.com,3670543937,Women,Dresses,Dresses - Exist,XS,Black,1,3336.96,Wallet,2025-07-24,Chennai,3336.96
+51217959-b777-433f-ac87-216dc81c5f6e,Alex Cline,fletchercourtney@yahoo.com,+1-288-412-3277,Women,Jeans,Jeans - Enter,M,White,3,3876.7,UPI,2025-07-01,Bangalore,11630.1
+22c235b9-64d9-43a9-a1a4-3d220c547e2f,Daniel Sanchez,kimberly00@jones.com,+1-233-929-0062x465,Women,Jeans,Jeans - Eat,S,Yellow,4,3164.87,Wallet,2025-01-17,Bangalore,12659.48
+b77a0827-4f9c-4b8a-be6d-2dd52d571718,Anna Young,michael99@hart-santiago.com,+1-556-930-7053,Men,Shirts,Shirts - Statement,XXL,Green,1,1896.93,UPI,2025-02-12,Kolkata,1896.93
+a13c738b-ac06-47dc-9f14-56d9cfb9b8e6,Evan Carter,stevencook@mendez-gonzalez.com,262.599.8869,Kids,Shorts,Shorts - Short,S,Black,2,2079.01,Credit Card,2025-04-06,Mumbai,4158.02
+3d7fde87-52b3-4f8a-be4f-90ca91ae2b5b,Julie Lopez,bstout@wilson-kirby.com,6727547073,Women,Jeans,Jeans - State,XL,Red,1,2877.95,Debit Card,2025-06-24,Ahmedabad,2877.95
+e84cd910-73bb-4fc1-ab76-4f807c7669d5,Sarah Olson,april63@yahoo.com,(807)924-6148,Women,Tops,Tops - Reason,L,Red,1,6244.98,Credit Card,2025-02-10,Bangalore,6244.98
+ef98ce9c-b2c8-4a09-ba32-fc56bef8899f,Dr. Christopher Singleton DVM,roger58@pena-reid.org,058.980.9773x3153,Kids,Sneakers,Sneakers - Decade,S,Green,4,2122.18,Cash on Delivery,2024-11-29,Mumbai,8488.72
+7b621ca6-b783-4fa2-910c-0453d9a6fa01,Shannon Vance,zwilliams@murphy.net,+1-392-345-7556x8721,Kids,Jackets,Jackets - Manager,XS,Beige,2,915.46,UPI,2025-01-24,Delhi,1830.92
+2fdf03f8-aa61-41cc-bdc3-306ecc44c6ef,James Zavala,klowe@barnes.com,+1-661-792-7360x392,Men,Jeans,Jeans - Old,XXL,Yellow,1,817.92,Debit Card,2025-08-09,Ahmedabad,817.92
+bf4bbde1-3fa2-4212-b434-a68f4961b81d,Nicholas Gomez,watkinsheidi@hotmail.com,308-407-0276x48380,Women,Jeans,Jeans - Fill,M,Pink,3,5707.76,Credit Card,2025-03-28,Chennai,17123.28
+928a484c-bfc7-4df0-851a-90069853df9c,Jason Mejia,ebartlett@hotmail.com,430-161-4422,Men,T-Shirts,T-Shirts - Career,XS,Beige,5,5322.72,Credit Card,2025-01-21,Delhi,26613.6
+dcc7da90-b211-4459-a55a-e7a5fb720ed5,Michael Johnson,gcaldwell@hotmail.com,630-413-5623,Men,Jeans,Jeans - Impact,L,Red,1,2474.77,Credit Card,2025-03-16,Hyderabad,2474.77
+9445238d-4747-42d6-9629-2ea620a68bfe,James Moreno,sarahcarter@hotmail.com,+1-211-697-3998x01556,Women,Jeans,Jeans - Source,XXL,Beige,4,4716.47,Cash on Delivery,2025-02-28,Pune,18865.88
+f0b64e40-756c-4a3a-963a-fe23b43f938a,Rebecca Moore,huntmatthew@yahoo.com,3819781695,Kids,Shorts,Shorts - Great,S,Grey,3,4173.11,Cash on Delivery,2025-08-23,Chennai,12519.33
+1a82c782-5a3f-4d36-b3b0-a5ca4a05b747,Michael Fisher,timothyeaton@gordon.org,(077)453-3240,Men,Shirts,Shirts - Have,XL,Pink,2,3191.44,Credit Card,2025-04-20,Mumbai,6382.88
+0ed66ca3-78f7-43a1-8ad3-4a2ad3c928a3,Aaron Brown,richardsonrebecca@hotmail.com,(197)794-0996x4809,Kids,Jackets,Jackets - Tonight,M,White,5,2732.06,Credit Card,2025-04-06,Chennai,13660.3
+fa8a7016-9ab0-4f91-b03e-8e4e10c0832e,Jennifer Bell,john75@melton-waller.com,836-111-9728,Kids,Shorts,Shorts - Television,S,Beige,4,604.56,UPI,2024-11-27,Delhi,2418.24
+3faf0f36-ad50-4bec-9f9b-452f1535424a,John Jordan,qwilliams@yahoo.com,+1-159-854-1674x43385,Kids,Shorts,Shorts - Certainly,M,Black,1,4359.34,Debit Card,2025-04-10,Chennai,4359.34
+964a67cc-f151-4297-8fbc-557d412302a1,Billy Harris,joshuawise@gmail.com,886-594-4474x55743,Kids,Shorts,Shorts - Wife,S,Grey,3,7996.03,UPI,2025-06-02,Chennai,23988.09
+e5de95f0-dbc7-458c-84a4-8c398aef391a,Eric Wiggins,mckinneyanthony@bullock.com,2677811649,Men,Shoes,Shoes - Mr,XXL,White,3,1696.48,Cash on Delivery,2024-12-24,Delhi,5089.44
+feb4f34f-96b8-4146-9a0f-a6587e9fc7d1,Robert Dean,hhart@yahoo.com,+1-366-346-1590x19431,Men,T-Shirts,T-Shirts - Nothing,L,Yellow,2,2101.17,Cash on Delivery,2025-06-17,Hyderabad,4202.34
+ae508b45-e172-4390-b1fe-39b0468ac8cc,Angela Martin,nicole63@hotmail.com,+1-163-619-1385x07591,Women,Dresses,Dresses - Available,S,Brown,3,7775.74,Cash on Delivery,2025-05-03,Bangalore,23327.22
+c1ccfdd8-d456-406e-a6e4-83dc9bb7472a,Alexandra Smith,xbeltran@yahoo.com,331-862-4247x65569,Women,Jeans,Jeans - Appear,XS,Yellow,4,5139.2,Wallet,2025-02-17,Hyderabad,20556.8
+7a4dcbfd-2ff7-4bdc-a304-2154347697da,Randall Pierce,randallbailey@hotmail.com,443.061.5758x56577,Kids,T-Shirts,T-Shirts - Stuff,XS,Grey,3,3670.29,UPI,2025-09-13,Delhi,11010.87
+e83769b7-149e-4b93-8952-4dd492c5f179,Christy Boyd,jhunt@jones.com,001-353-607-1305x435,Men,Jackets,Jackets - Pay,S,Black,4,5524.6,Debit Card,2025-05-21,Chennai,22098.4
+1b96d64e-305c-45d4-8bfc-9d01dcd00304,Jason Daniels,leonardmark@gmail.com,471.139.4357,Women,Bags,Bags - Level,S,Blue,1,6208.11,Credit Card,2025-03-21,Delhi,6208.11
+3aa5f28c-7505-412c-b72b-8ae2969d8b33,Dustin Russo,dgriffith@hall-murillo.org,827-330-1724x643,Men,Shoes,Shoes - Most,L,White,3,2696.83,Cash on Delivery,2024-11-23,Hyderabad,8090.49
+085e6652-5d7a-4365-b055-3307247e05c7,Michael Gordon,marysutton@hoffman.info,+1-780-952-7457x61081,Kids,Jackets,Jackets - Return,L,Yellow,4,6006.29,Credit Card,2025-01-31,Chennai,24025.16
+7d7ed5e4-98d6-4254-a303-859af7e76fde,Dana Ryan,ahoward@phillips.com,501-649-0390x42421,Kids,Jackets,Jackets - Do,S,Beige,5,3351.16,Wallet,2025-04-12,Pune,16755.8
+575063b6-05c4-47c5-bee6-6962098f3fc2,Joshua Hill,sabrinacoleman@hughes-garcia.net,456-016-9978,Women,Jeans,Jeans - Necessary,XXL,Yellow,1,7581.0,Wallet,2025-08-21,Kolkata,7581.0
+eba3e242-6d85-4eb8-a1fb-12a18a7d7e69,Patrick Riddle,cynthiashepherd@boone.com,(103)071-6023x27191,Kids,Sneakers,Sneakers - Explain,XXL,Beige,1,6330.77,Wallet,2025-03-08,Hyderabad,6330.77
+3df5e12c-7d22-416a-bbcb-7b30cfe47a59,Tony Graham,angelamiller@meyers.net,(120)312-8913,Men,Shirts,Shirts - Wonder,L,Beige,5,6377.95,Debit Card,2024-12-13,Pune,31889.75
+c2735fdd-3018-4562-80a8-9ee8049397cc,Joseph Romero,leonmorgan@brown.com,(011)813-8090x2793,Women,Tops,Tops - Suffer,XXL,Beige,3,7250.6,UPI,2025-02-01,Hyderabad,21751.8
+a964886d-8bc2-4f1f-b3fc-0e88ddcd5194,Carol Cox,cynthiamorse@yahoo.com,+1-214-914-8436x41236,Women,Heels,Heels - Book,XL,Black,3,5757.74,Cash on Delivery,2025-09-09,Chennai,17273.22
+3b9ca6bb-13c2-48ed-abb1-d977a17f86d6,Steve Rojas,griffinjoshua@yahoo.com,001-976-346-6002x771,Men,T-Shirts,T-Shirts - Someone,L,White,5,5591.91,Credit Card,2025-07-04,Chennai,27959.55
+cb2525bd-3157-4282-ac9d-dd1715871c2d,Samantha Mcknight,clarkbrooke@yahoo.com,299.222.7277x727,Women,Heels,Heels - Himself,XXL,White,5,3661.6,Debit Card,2024-11-02,Delhi,18308.0
+9de1b393-671d-47c7-9976-5836275ecc64,Christopher Williams,durhamdustin@hotmail.com,001-942-484-7746x879,Kids,Sneakers,Sneakers - Action,XL,Green,2,4317.65,Credit Card,2025-09-10,Mumbai,8635.3
+452ee384-4acd-4b96-84d2-c1745cba0d28,Penny Pugh,paigeramos@thomas-anderson.com,(013)621-0491x59019,Women,Tops,Tops - Nor,S,Brown,1,742.71,Credit Card,2025-02-10,Kolkata,742.71
+f7f1cc62-c122-4ed0-be17-8da3645b4072,Alexandra Novak,michaelscott@hotmail.com,835-800-5301,Women,Dresses,Dresses - Performance,XXL,Brown,5,5107.86,Wallet,2024-11-04,Pune,25539.3
+c1d3869d-f66d-464a-a2bd-612b95c505f4,Charles Pierce,jennifer04@hotmail.com,+1-139-714-6931,Men,Shirts,Shirts - Personal,L,Yellow,2,4295.36,Debit Card,2025-08-09,Bangalore,8590.72
+7952c094-e9fa-46d7-a549-7109e1a5f008,Kevin Santos,xedwards@gmail.com,159.105.5553x30085,Women,Heels,Heels - Stay,M,Black,5,7327.23,Debit Card,2025-05-07,Ahmedabad,36636.15
+202656aa-9f5d-4795-90d4-4574d51c04ad,Krista Gomez,gregory04@roberts.com,(222)008-9085x936,Women,Tops,Tops - Statement,XXL,Black,1,1457.29,UPI,2025-07-14,Hyderabad,1457.29
+862263dd-5007-49a6-bfe9-22169d8e6a1b,Krystal Mclaughlin,michael83@yahoo.com,4367716561,Women,Bags,Bags - Wrong,XS,Blue,2,4258.03,Cash on Delivery,2024-11-06,Hyderabad,8516.06
+35fdb5b1-8939-48f4-a61f-94b5c5418c9f,Joseph Huber,michellesilva@gmail.com,+1-472-085-8731x356,Kids,Jackets,Jackets - Exist,XXL,Blue,5,6870.11,Cash on Delivery,2024-12-04,Hyderabad,34350.55
+186d5cd2-9678-4aac-af55-fa8b194e24cb,Jason Robertson,steven75@ramirez.com,7528285246,Men,Jackets,Jackets - Television,XS,Brown,3,1673.05,UPI,2024-09-28,Mumbai,5019.15
+f6c03356-2dd1-4439-b32c-7f3825e8cbbf,David Meyer,jenniferherrera@hotmail.com,830.245.2136x88789,Kids,Sneakers,Sneakers - Inside,XL,Red,2,1907.55,Credit Card,2025-03-10,Bangalore,3815.1
+2fd58dff-5f19-4cbb-9665-f82bc7282c6a,Timothy Bell,qhoffman@gmail.com,3924587721,Women,Heels,Heels - Suffer,XXL,Beige,5,6291.34,Cash on Delivery,2024-11-09,Delhi,31456.7
+00e4bf19-1d54-4c40-9b5f-b2dbf7278ecc,Jennifer Price,jonesemma@gmail.com,091.810.8056x37271,Men,Shirts,Shirts - Leave,XS,Yellow,2,3594.58,Credit Card,2025-06-08,Hyderabad,7189.16
+9efc6ccf-4061-494d-be90-3c6c9a4270bd,Keith Torres,travisstephanie@hotmail.com,540-382-9960x880,Men,T-Shirts,T-Shirts - Special,XL,Brown,1,5316.85,Credit Card,2025-03-06,Ahmedabad,5316.85
+65c20e94-8b22-42fb-99a4-65379f38a596,Ann Stanley,ian11@johnson-holmes.com,+1-356-388-2132x327,Women,Dresses,Dresses - Five,L,Beige,1,624.36,Cash on Delivery,2025-01-10,Bangalore,624.36
+7e85d875-59b6-4b8c-a160-c2730cfcbcf7,Brittany Davila,morrissamuel@hotmail.com,432-916-1598x8552,Men,Jackets,Jackets - Right,XL,Brown,3,1106.18,UPI,2025-08-14,Kolkata,3318.54
+80ca09a1-7839-458f-9ad1-32af567b4e2a,Randall Ward,andrewbailey@brady.com,+1-529-991-4225x9238,Men,Shirts,Shirts - Around,XXL,Green,5,4488.5,Cash on Delivery,2025-08-20,Ahmedabad,22442.5
+d8ffe234-c7c0-4575-ad1d-0132d8e5c549,Michelle Ford,pcochran@wilson.com,001-521-801-6944,Women,Jeans,Jeans - Hour,XXL,Grey,4,4741.09,Debit Card,2025-05-06,Hyderabad,18964.36
+ec5656f2-288a-4bb9-a460-8f4e1004b244,Amy Gordon,brandi60@hotmail.com,+1-824-503-2621x4592,Women,Bags,Bags - Boy,S,Brown,3,5486.55,Wallet,2025-02-18,Pune,16459.65
+a97cc4b1-676b-4cea-b29c-8308a36c43b3,Kayla King,stoneroger@carter.com,+1-359-907-1706,Men,Shoes,Shoes - Its,S,Green,2,1097.49,Cash on Delivery,2024-11-17,Chennai,2194.98
+64a8d100-2d3b-404a-b153-550fbb8d4648,John Mcdonald,anna91@hernandez-garcia.com,948.194.5570,Women,Dresses,Dresses - Build,XL,Green,3,1248.68,Wallet,2025-08-21,Hyderabad,3746.04
+a816de56-ebc1-42b9-bf95-bc91f8dfa6cd,Anthony Garcia,ellisbrendan@gmail.com,558-148-0087x41612,Men,Shirts,Shirts - Without,XS,Red,4,3945.35,UPI,2024-12-13,Delhi,15781.4
+69163b0b-8218-4c36-8ddb-3ee0d2955c4d,Steven Armstrong,mitchellamber@howell-ball.biz,822.117.4280,Women,Jeans,Jeans - Character,XL,Beige,1,1334.17,Cash on Delivery,2024-10-23,Hyderabad,1334.17
+c35ccf08-5353-4091-91f2-d01ee1679f7b,Shawn Hanson,perryjulie@vazquez-shah.com,562-029-0052x652,Men,Shoes,Shoes - Right,L,Grey,1,3187.78,Wallet,2025-08-30,Mumbai,3187.78
+47116c8c-894b-479f-86c4-80e1e6767947,Aaron Jones,rossadam@payne.com,(208)191-3223,Kids,Jackets,Jackets - Listen,M,Green,3,553.62,Debit Card,2025-07-30,Pune,1660.86
+1bd57f74-d06c-4ae0-9808-fa6848e163c6,Erin Stewart,jennifervance@galvan.info,199.881.7498,Women,Dresses,Dresses - Contain,XL,White,2,5007.41,Debit Card,2025-08-09,Delhi,10014.82
+77d700ca-497d-483f-acc8-7a8826679c30,Leslie Allen,felicia53@yahoo.com,899.459.4617x07461,Kids,Sneakers,Sneakers - Effect,XL,Blue,2,7957.59,Debit Card,2025-05-29,Bangalore,15915.18
+2aa403b8-0d55-4c46-a0d0-159b52e155f2,Michael Harris,awilson@turner.com,001-016-573-0140x6723,Women,Bags,Bags - Industry,S,Blue,1,2690.44,UPI,2025-08-16,Chennai,2690.44
+2c6630d2-74c7-49c8-af16-4288ddb9c13c,Nicholas Ramos,maria54@carter.com,+1-561-529-0920x32982,Men,Shirts,Shirts - What,M,Yellow,3,799.01,Debit Card,2024-11-24,Kolkata,2397.03
+6ce761a6-690c-441e-94a9-b6da683a8616,Thomas Morse,vdoyle@howell.com,075.856.3308,Women,Bags,Bags - Traditional,XS,Beige,1,6540.13,Debit Card,2025-05-26,Pune,6540.13
+bac07f14-e667-46d1-8891-6bc367a7e86c,Marco Delacruz,sherry59@gmail.com,+1-216-677-3556x3715,Women,Bags,Bags - Whatever,XXL,Black,1,3917.46,Credit Card,2025-09-09,Mumbai,3917.46
+6fb62493-ad0e-46b3-993c-a994d231a531,Daniel Wood,sethpatrick@hotmail.com,+1-041-143-0926x43126,Men,Shoes,Shoes - Final,XS,Beige,1,6938.63,Cash on Delivery,2025-01-30,Pune,6938.63
+9f7b1ed3-9e55-4c21-9aa8-7f1180c2c198,Anthony Marquez,lfritz@gmail.com,+1-009-605-8484x27591,Men,Shirts,Shirts - Sea,M,Pink,5,1764.02,UPI,2025-05-13,Bangalore,8820.1
+b933f2b6-205a-4407-b36c-0cc7a124f539,Elizabeth Sims,scottjohnson@casey.com,+1-070-275-2463x1331,Women,Heels,Heels - Major,XS,Yellow,3,1291.86,Wallet,2025-02-09,Ahmedabad,3875.58
+a073c5b2-ddd0-4f1d-8b8c-6a6bbd6238c5,Chelsea Powell,harveychristopher@lindsey.com,008.509.7778x24519,Kids,Shorts,Shorts - Ball,M,Yellow,5,6016.19,UPI,2025-08-23,Ahmedabad,30080.95
+fe8b1a18-4156-4887-a40f-9e2859d065a1,Anthony Hill,dorothymoreno@castaneda.com,001-466-271-9443x783,Men,Shoes,Shoes - Main,M,Pink,4,2610.55,UPI,2025-07-19,Kolkata,10442.2
+893f2591-a724-4900-9c6b-715bf034ffaf,Jeffrey Hoover,desireeanthony@hubbard.com,(747)742-8969,Kids,Sneakers,Sneakers - Evening,XL,Yellow,3,2510.04,Cash on Delivery,2024-10-03,Bangalore,7530.12
+b726f32d-ac43-4074-96da-46117f9c8656,Connor Munoz,sherry59@fisher.net,870.605.7295x636,Men,Shirts,Shirts - Hope,XXL,Pink,4,1679.87,Debit Card,2025-08-21,Chennai,6719.48
+d62de6b4-6cb5-4540-ad15-9c291dd55303,Richard Marshall,hector98@gmail.com,001-641-241-9900x3682,Women,Heels,Heels - Range,M,Green,4,4634.16,Cash on Delivery,2025-07-29,Pune,18536.64
+4c149592-2a78-454d-b9c3-3fe444a25d43,Nicole Rogers,linda57@gmail.com,146-188-3592x639,Kids,T-Shirts,T-Shirts - Reflect,M,Brown,5,7871.33,Debit Card,2024-11-27,Mumbai,39356.65
+a4e49ba2-e662-44a8-b3ba-24feaa1048df,Mario Spears,spage@hotmail.com,001-120-997-8149x44174,Women,Jeans,Jeans - Keep,XS,Green,4,2144.33,Cash on Delivery,2025-01-06,Chennai,8577.32
+0e34cb29-83de-471b-b759-75d181f1249a,Russell Lee,hoganjennifer@hotmail.com,213.019.3187x1275,Men,Shirts,Shirts - Skill,XS,Blue,2,4287.2,Cash on Delivery,2025-05-09,Pune,8574.4
+5f79fadf-9810-4e3b-8792-06888166ca2e,Jamie Hopkins,fholt@hotmail.com,921.696.0431x196,Kids,Shorts,Shorts - Probably,L,Black,4,3296.22,Cash on Delivery,2025-03-14,Hyderabad,13184.88
+37baf124-207f-44da-98fe-3ff956517b4b,Rebecca Fischer,daviselizabeth@yahoo.com,595-027-9428,Men,Jackets,Jackets - Investment,S,White,3,6961.43,Wallet,2025-01-11,Ahmedabad,20884.29
+fe8e92b7-9861-42e2-8947-8f3b8c0b16de,Mrs. Lindsay Brown,andrewparker@gmail.com,+1-006-256-2298,Kids,Jackets,Jackets - Miss,XL,Pink,4,3749.33,Debit Card,2024-10-21,Pune,14997.32
+58d674b5-d26e-48e8-83db-3826d1abe949,Travis Wong,manningtanya@gmail.com,001-542-298-4926x290,Kids,Sneakers,Sneakers - Maybe,XL,Grey,4,827.41,Debit Card,2025-03-18,Mumbai,3309.64
+a6e0ec27-6db4-4f9c-b35f-680b31d830c8,Rachel Smith,gregthompson@gmail.com,007.279.2734,Men,Jackets,Jackets - Strong,XS,Green,4,925.83,Credit Card,2024-10-08,Ahmedabad,3703.32
+3dfa4b95-185d-481d-b7ab-cf7f657c4102,Michael Guerrero,simmonsdalton@hotmail.com,323.364.3338,Kids,Sneakers,Sneakers - Floor,XL,Brown,5,4926.85,Debit Card,2024-12-31,Pune,24634.25
+f86441d1-ebdd-448a-bffe-2b3d96f0d070,Thomas Smith,sandraparks@richardson.biz,(049)900-6295x10357,Men,Shoes,Shoes - Hour,XXL,White,1,1767.0,Credit Card,2025-03-18,Ahmedabad,1767.0
+ca511f80-12d7-4989-b126-82a40bcd9e3d,Lisa Adams,rebekah36@alexander-lin.net,8069004343,Men,Shirts,Shirts - Hear,L,Pink,1,6086.91,Credit Card,2025-07-25,Chennai,6086.91
+8ab766a8-543d-4021-847b-b1fe30ff03e0,Kristopher Bowen,claytonterry@yahoo.com,7908198059,Women,Tops,Tops - Off,XL,Yellow,4,5859.14,Wallet,2024-12-01,Delhi,23436.56
+6ba3cf62-c163-4b7e-953e-700ce6fbef24,Zachary Oconnor,timothycolon@shaffer.com,003-411-2166x32720,Women,Bags,Bags - Third,XS,Brown,2,1411.62,UPI,2025-08-29,Pune,2823.24
+68cf01db-d0b5-4f68-bce3-2914561f1987,Tara Brown,sueconley@dixon.net,534-749-8735x92239,Men,Jeans,Jeans - North,XL,Yellow,4,3388.52,UPI,2025-09-01,Delhi,13554.08
+d167833f-cadc-438d-8d3f-6571a3523b6b,Mrs. Carolyn Brown,ashleemitchell@stanley.info,+1-977-760-8615,Kids,Jackets,Jackets - Cultural,XS,Green,1,5248.26,Cash on Delivery,2024-11-27,Ahmedabad,5248.26
+100f6820-c951-4c96-b3d2-348380ac174b,Joshua Anderson,iansullivan@hotmail.com,001-681-768-2349x72827,Men,Jackets,Jackets - Fund,XL,Black,2,1336.36,Wallet,2024-12-04,Delhi,2672.72
+fb9d16b8-b43a-4ea0-917d-f875ecdf325b,Andrew Smith,gary06@mays.com,001-138-996-5897x1647,Kids,T-Shirts,T-Shirts - Someone,L,Blue,2,4263.96,Wallet,2024-12-25,Kolkata,8527.92
+6951add0-4157-4510-b33e-75ffb9798af3,John Lewis,zacharyjohnston@yahoo.com,(226)290-4884,Men,Shirts,Shirts - Growth,S,Brown,4,5548.84,Debit Card,2025-08-28,Bangalore,22195.36
+2fbd5a20-daca-45db-8bac-cf8c70083046,Catherine Russell,hayeskathleen@atkinson.biz,483.894.4334x30219,Women,Tops,Tops - Prove,XS,Blue,2,5519.34,Credit Card,2025-01-10,Kolkata,11038.68
+fcfa4c8e-3e7e-4365-aef4-73871d9e88ab,Edwin Gonzalez,william40@walsh.com,361.121.9002x66779,Women,Bags,Bags - Total,S,Brown,4,2245.7,Wallet,2024-10-31,Delhi,8982.8
+784a173e-129e-4785-a777-ca4b7df876b0,Miranda Rivera,luiswilson@murphy.com,(788)473-0321,Women,Heels,Heels - Consumer,L,Red,4,7418.77,Cash on Delivery,2025-03-11,Hyderabad,29675.08
+d303b031-1c23-49fb-97b1-8d6e02039e52,Laura Alvarez,ronnietorres@holt-campbell.com,(689)706-1924x875,Women,Bags,Bags - American,XL,Yellow,4,7358.12,UPI,2025-02-03,Ahmedabad,29432.48
+d0e0920d-320a-4792-ba7d-b39e761a12c6,Mary Cooper,singhchristina@sanchez.info,+1-798-655-7257,Women,Tops,Tops - Finally,XXL,White,1,3549.09,Cash on Delivery,2025-06-16,Mumbai,3549.09
+f0c9489e-b661-4f78-b129-64f0786c1d5a,Alexis Murphy,joseph04@morgan-greene.net,001-545-113-3513x37544,Men,Shirts,Shirts - Stay,XXL,Green,5,2396.48,Credit Card,2024-11-03,Delhi,11982.4
+812716f9-a683-4a0b-8ac4-5fd31f12b325,Suzanne Bell,emilyjordan@rodriguez.com,001-832-423-7122x7535,Kids,Shorts,Shorts - Know,M,Red,2,3512.44,Debit Card,2025-02-08,Bangalore,7024.88
+76e30b83-02a5-46d4-a7f7-8d6520ab9f3e,Paul Thomas,marshallmartha@romero.com,6632848424,Men,Jeans,Jeans - Move,L,Grey,3,4819.29,UPI,2024-10-23,Chennai,14457.87
+ae621b85-d793-466d-8406-f8ace88e4da2,Ryan Hunter,wrightbenjamin@peck.com,+1-152-448-7110x56860,Men,Shoes,Shoes - Beat,XL,Yellow,1,1018.14,UPI,2025-04-11,Bangalore,1018.14
+dd48c834-76d5-4de4-952e-ec6c3ea95195,April Mcfarland,wwhite@becker-clements.com,(322)130-8812,Women,Heels,Heels - Force,M,Black,5,3848.57,Wallet,2025-05-22,Ahmedabad,19242.85
+f5407cfe-427a-42a0-99c3-6e8d602b96a9,Michael Fields,hansonronald@yahoo.com,928-330-3224x444,Women,Tops,Tops - Join,M,Beige,4,6102.97,UPI,2024-12-05,Hyderabad,24411.88
+a5870284-e9fd-4dcf-b0d7-4cf77a1851b8,Elizabeth Dunlap,lucas72@maddox-dean.com,(279)814-6991x75137,Women,Heels,Heels - Nor,XL,Beige,2,5650.63,Credit Card,2025-01-06,Mumbai,11301.26
+79a7d8eb-7e95-4aac-8274-4a4c6d29672b,Robert Price,tmorris@delgado.com,+1-078-592-1654x76385,Kids,Shorts,Shorts - First,XL,Red,4,3377.48,Wallet,2025-05-06,Kolkata,13509.92
+8a0afda7-7fae-4a1c-9f79-726b97e5a708,Angela Morgan,hhoffman@gmail.com,563-946-9648,Kids,T-Shirts,T-Shirts - Game,XS,White,2,3676.12,Cash on Delivery,2025-03-08,Kolkata,7352.24
+ea9b33fc-c0d1-4860-b96c-21c340aae71b,Molly Mcdowell,brendalopez@hernandez-haas.org,067-288-8728x6386,Kids,Shorts,Shorts - Director,XS,Red,4,2214.79,Wallet,2024-12-05,Kolkata,8859.16
+88836fce-273f-44d5-b047-60c0d306c464,Kevin Franklin,lrobinson@hess-hughes.com,+1-115-127-6361x347,Kids,Sneakers,Sneakers - Many,S,Black,4,2476.83,Debit Card,2024-12-15,Kolkata,9907.32
+abddbfb3-1e99-43df-9075-c35f02dab6a2,Derek Collins,oshaw@dorsey.com,487-646-4663,Women,Heels,Heels - Protect,XL,White,1,6225.48,UPI,2025-05-25,Bangalore,6225.48
+f93110e9-8ab6-4b4c-bd20-b4e3a150611b,Isaiah Kidd,hcantu@young.com,1185888378,Kids,Jackets,Jackets - His,M,Grey,4,530.79,Debit Card,2025-07-20,Kolkata,2123.16
+7921fa51-09c4-4b9b-a860-e410e0d9cb2a,Stephanie Livingston,rodriguezkristin@hotmail.com,+1-029-939-2766x371,Women,Dresses,Dresses - Fine,L,Beige,4,4067.07,Wallet,2025-03-26,Kolkata,16268.28
+34491508-47dc-4fbf-b0b3-ae23a9d766fe,Jennifer Leblanc,christinamiller@johnson.com,977-635-5265x0814,Men,Jeans,Jeans - Popular,XL,Red,2,804.91,Credit Card,2024-10-11,Kolkata,1609.82
+12fbe00f-d76f-4564-958f-d2bc53d79d1a,Brenda Ward,medinarobert@gmail.com,3285788009,Men,Jeans,Jeans - Anything,L,Grey,4,7225.95,Wallet,2024-11-06,Delhi,28903.8
+f4bcbbf8-0894-4c15-adcd-ad10e4f5be03,Jennifer Jones,butlerpaul@gmail.com,3706240768,Men,Jeans,Jeans - Small,S,White,3,6047.26,Debit Card,2024-10-28,Mumbai,18141.78
+1d9c46c4-694d-4052-82b9-ffcbe6447d77,Steven Figueroa,kpearson@gmail.com,001-927-767-5638x8546,Women,Dresses,Dresses - Certainly,S,Pink,1,1567.65,Wallet,2025-08-31,Ahmedabad,1567.65
+3996bbda-d1d1-449a-9a7a-86e1653fbad4,Barbara Cruz,selenajones@gmail.com,+1-432-754-6970,Kids,Shorts,Shorts - Foreign,XL,Yellow,2,4862.52,Credit Card,2024-09-26,Hyderabad,9725.04
+728a9584-d62e-4cde-ab64-4ecfab7fe962,Christine Garcia,moniquemontoya@lane-king.org,+1-870-906-9189x52111,Women,Jeans,Jeans - Red,XS,Red,5,6359.9,Debit Card,2024-11-10,Delhi,31799.5
+49c73eca-b14f-4807-a4ce-dc20db399a89,David Campbell,lisa02@russell.net,015.091.4200x19131,Men,Jackets,Jackets - Head,M,Brown,3,7283.93,UPI,2025-03-20,Mumbai,21851.79
+e553fb04-2bee-4254-959b-7ccab021438c,Jenny Evans,matthew18@hotmail.com,(010)089-6923,Men,Jeans,Jeans - Room,XS,Black,2,6763.7,Debit Card,2025-08-27,Mumbai,13527.4
+2359f882-3f2c-40a6-9412-12279853c080,Brandon Black,christopher14@martin.com,+1-707-373-8318,Men,Jeans,Jeans - Test,XXL,Pink,5,3592.25,Debit Card,2024-10-22,Kolkata,17961.25
+0158fe2d-8b10-403c-a4d4-ca21599c5281,Richard Lloyd,james64@armstrong-wilson.biz,4809273063,Women,Heels,Heels - Candidate,XXL,Green,5,3487.11,Debit Card,2025-07-17,Ahmedabad,17435.55
+594bb5c6-1de1-4369-9df3-74a34c822b6a,Frances Brown,melinda16@hotmail.com,486-013-5239x961,Kids,Shorts,Shorts - Cover,XXL,Green,5,6865.16,Cash on Delivery,2024-11-10,Chennai,34325.8
+124a9186-aeeb-41ea-8a63-b860ff2081cc,Aaron Allen,jenniferflores@nash.com,4699298881,Men,T-Shirts,T-Shirts - Recognize,L,Blue,5,5089.13,UPI,2025-06-18,Bangalore,25445.65
+90e3045a-3e5e-4138-ba37-0257b705f173,Deborah Campbell,thorntonmonica@coleman.com,001-714-527-1839x275,Kids,Jackets,Jackets - Reality,L,Beige,5,4267.04,Cash on Delivery,2024-12-21,Hyderabad,21335.2
+3244df7a-63db-4585-9c4d-6e7ee467cdcd,Bradley Williams,mckenzie48@gmail.com,728.634.3730x6497,Women,Bags,Bags - Require,XS,Grey,5,2937.93,Wallet,2024-12-23,Mumbai,14689.65
+5b1cc63b-7803-4913-b12b-e632470d2192,Ronald Petersen,joanne29@harris-owen.com,(444)846-6856x56300,Women,Jeans,Jeans - Again,S,Pink,5,3022.06,UPI,2024-10-20,Mumbai,15110.3
+1bcf4400-7a26-4601-8520-fd11f86520dd,Holly Simmons,nmeyer@hotmail.com,518.201.5323,Men,Jeans,Jeans - Floor,M,Black,3,7082.91,Wallet,2025-02-12,Hyderabad,21248.73
+b95799a5-e766-40e8-813e-2fc9a84f6824,Cody Gomez,suarezdavid@lewis.com,+1-602-156-2228x6003,Women,Bags,Bags - Rate,S,Beige,5,853.74,Debit Card,2025-07-13,Mumbai,4268.7
+f25b94ea-bd84-4882-b6a4-ffaf677b5554,Samantha Smith,jenniferyoung@dodson.com,(887)210-6015x3776,Women,Heels,Heels - Base,M,Black,4,7334.97,Debit Card,2025-08-19,Delhi,29339.88
+24572851-cc1a-4c62-a37c-40b98c275d3e,Daniel Williams,dbryant@bryant.com,559-572-4153,Men,Shirts,Shirts - Product,XS,Brown,3,6872.81,Credit Card,2025-07-25,Mumbai,20618.43
+e45cacb9-8ce0-45e6-bfe7-0ef4cfaa024a,Tara Collins,michael56@vance.com,(371)770-8513x1164,Women,Tops,Tops - Break,S,Brown,3,3487.77,Cash on Delivery,2024-10-16,Delhi,10463.31
+547f8a9f-c9e2-4762-b4ab-91a13bc5475b,Kathleen Castro,wgentry@smith-johnson.com,809.799.8563x901,Kids,Shorts,Shorts - Law,XXL,Pink,5,2402.57,Wallet,2025-05-01,Delhi,12012.85
+1df344fb-cd61-48d4-8b28-77986d265b99,William Yoder,kwalker@lam.com,451.565.1979x34037,Women,Tops,Tops - Represent,M,Beige,3,4249.73,Debit Card,2025-07-09,Chennai,12749.19
+1092682b-8c23-4b1b-8263-107814d064fb,Amber Johnson,reedmary@matthews-crane.net,001-253-334-9547x94784,Women,Dresses,Dresses - Lead,XXL,Beige,5,5261.45,Wallet,2025-09-02,Kolkata,26307.25
+a60237cc-1e54-4d15-b890-13f296cd14ef,Margaret Baker,victoria67@yahoo.com,101-669-5267,Women,Heels,Heels - Accept,M,Brown,3,5690.4,Cash on Delivery,2024-11-14,Kolkata,17071.2
+c3853ad8-9de2-4166-90f5-0ffef1a12d42,Lindsay Woods,julie96@yahoo.com,537.360.1165x1350,Kids,Shorts,Shorts - Name,XS,Green,4,3486.35,Wallet,2025-06-22,Pune,13945.4
+902e63c8-8964-4897-83c5-7d7023cd594c,Denise Chandler,sarellano@gmail.com,9475100348,Men,Jackets,Jackets - White,XXL,Pink,5,4099.09,UPI,2025-06-23,Pune,20495.45
+ecd5a03a-6b4c-4896-9472-2c80d83f4c1f,Connie Bush,vwright@chan.com,001-219-664-3359,Kids,Shorts,Shorts - Avoid,XL,Pink,4,2610.01,UPI,2025-04-23,Pune,10440.04
+1961c54d-2b7a-4372-ac4b-ef6c2229f53f,Kristen Stewart,williamgallagher@brown-turner.com,+1-537-454-9880x49753,Women,Dresses,Dresses - Season,S,Pink,5,1542.82,Wallet,2024-12-26,Hyderabad,7714.1
+e38ed961-d437-4fa4-a5ea-c922da48e1a0,Laura Byrd,kellybrian@russell.com,963.999.1812,Men,Jackets,Jackets - Financial,M,Pink,1,4743.7,Cash on Delivery,2025-09-12,Bangalore,4743.7
+a98d1a33-55dd-4288-b0c6-c82c635f7129,Amber Davis,christophergrant@yahoo.com,567.884.1207x560,Kids,Jackets,Jackets - Sound,M,Yellow,4,7082.16,Debit Card,2025-01-25,Bangalore,28328.64
+e2edf089-2dcc-4dd7-b368-26f575aa4cfc,Veronica Moore,rebeccadudley@hotmail.com,927-930-2284,Women,Tops,Tops - Toward,XXL,Brown,1,1527.04,Credit Card,2025-07-05,Kolkata,1527.04
+63263928-a2c4-40b9-9419-4b84cc250027,Joshua Wilson,kyleelliott@harris.info,(273)627-5523,Men,Shirts,Shirts - His,XS,White,2,7252.31,UPI,2025-05-20,Chennai,14504.62
+c4d87ced-5476-4627-9cdf-4a7fef352347,Hannah Wilson,ssaunders@davis.org,+1-248-249-6808,Men,Jackets,Jackets - Finish,XS,Pink,3,5259.71,Credit Card,2024-10-09,Pune,15779.13
+b80d6ed9-aa34-4697-9859-0919d6540ea2,Bryan Ferguson,bcummings@yahoo.com,589.508.6935x8189,Men,T-Shirts,T-Shirts - Lead,M,Beige,3,7255.25,Credit Card,2025-02-27,Chennai,21765.75
+37dbc89e-a323-44be-9856-6bd585699274,Tina Chen,walshmichael@lowe.com,+1-060-172-3813x01746,Kids,Sneakers,Sneakers - How,M,Red,4,1235.15,Debit Card,2025-05-25,Delhi,4940.6
+dd0a5d15-8f5f-4306-86c4-8e42452ec270,Karen Mitchell,martinezangela@hotmail.com,438-255-3283x58231,Women,Heels,Heels - Win,XS,Brown,3,6379.94,Wallet,2025-03-22,Ahmedabad,19139.82
+9d4f7c22-1b2e-48d5-83f5-8a1e27f2c2a2,William Wilcox,lopezkristin@hotmail.com,001-871-506-8594,Women,Bags,Bags - Very,XXL,Pink,5,2265.65,Wallet,2025-03-26,Hyderabad,11328.25
+c28382ef-b0ad-43aa-9ab4-d3d88d442514,Tiffany Benitez,kirbycarlos@miller-thompson.com,030-863-8937x046,Women,Tops,Tops - Soldier,L,Red,5,5424.94,UPI,2025-01-14,Mumbai,27124.7
+d50f504a-1553-45ed-aa65-964ffdb155ca,Jack Campbell,amanda93@pham-prince.com,(497)305-4626,Kids,Shorts,Shorts - Speak,S,Black,4,4184.7,Debit Card,2024-11-05,Bangalore,16738.8
+3aa35ad0-9e31-4c10-8103-e0794d66188e,Kimberly Allen,kelliehamilton@gmail.com,001-754-972-5370x602,Women,Heels,Heels - Protect,L,Green,1,2885.63,Wallet,2024-12-11,Pune,2885.63
+9b51a8cd-412d-4646-807e-e5b0439f1eca,John Bailey,sarah83@murphy-jones.org,+1-938-608-7351x7659,Kids,Sneakers,Sneakers - Young,XL,Blue,5,4813.44,Debit Card,2024-11-26,Hyderabad,24067.2
+36e03799-ec12-4a3c-838b-624ba9600f59,Christine Conway,carolboone@hotmail.com,122-342-9781,Women,Jeans,Jeans - But,XS,Yellow,1,3540.75,Credit Card,2025-01-20,Delhi,3540.75
+26187ad4-ade1-4a38-aed2-192aaebf8b2b,Chris Novak,akennedy@gmail.com,001-329-652-0585,Men,Jackets,Jackets - Let,M,Grey,4,4193.21,UPI,2025-09-07,Pune,16772.84
+9e7aaa7e-cb46-4a09-b153-b0202e611d01,Mr. Robert Potter Jr.,makaylanichols@hayes-carroll.com,+1-675-463-8233x786,Women,Tops,Tops - Start,XL,Grey,1,1350.57,Debit Card,2025-06-21,Ahmedabad,1350.57
+19421bbb-0d88-4b21-b8cb-001083e235af,Diana Watson,paynestephanie@gmail.com,089-800-6840x196,Kids,Shorts,Shorts - Fall,XL,Pink,2,859.69,Debit Card,2025-09-09,Ahmedabad,1719.38
+4a999d22-ab29-4bf1-908b-ab25f5f9e856,Jesse Fuller,catherine03@anderson.org,157.274.2171,Women,Jeans,Jeans - Wall,XL,Pink,5,1123.3,Credit Card,2024-10-11,Pune,5616.5
+37f66900-4a8a-4864-8b4f-174c171df76e,Mrs. Jennifer Solomon,qcoleman@roth.com,2216940927,Kids,Jackets,Jackets - Including,S,Yellow,2,7913.06,Credit Card,2024-11-16,Pune,15826.12
+17507c0b-9256-43ed-a399-40b7e2a8294d,Aaron Potter,edward47@wong.info,(713)966-4385,Men,Shoes,Shoes - Accept,L,Brown,2,5613.0,Credit Card,2025-08-31,Hyderabad,11226.0
+9ede71a1-40fe-40a9-9323-f6bf68c8dcdc,Angela Compton,cochranadriana@hahn.net,(657)019-7481x9015,Kids,Sneakers,Sneakers - Behind,XL,Black,2,6470.76,Credit Card,2025-06-15,Kolkata,12941.52
+4f49d95c-0a5c-4c17-8a98-9c3238e62167,Jeremy Martin,marc96@gmail.com,(489)957-3803x7618,Men,Jeans,Jeans - Film,XS,White,4,2487.48,Cash on Delivery,2025-05-22,Pune,9949.92
+afabccbe-2e0a-415a-bfb4-c2f10f60afce,Deborah Stephens,elizabethjones@hunter.info,+1-812-756-0509x344,Kids,Jackets,Jackets - Agreement,M,Brown,3,6188.09,Debit Card,2025-05-23,Delhi,18564.27
+bdcc1d55-2b82-4499-adad-2fd70eb5f09f,Vincent Campbell,jeffrey26@yahoo.com,+1-238-393-4817x978,Women,Bags,Bags - Thousand,XS,Brown,5,3398.35,Wallet,2025-02-07,Pune,16991.75
+36ab4a89-dc02-48a0-a567-9700385fc3d8,Terry Morris,gmurphy@yahoo.com,944.837.4446x7263,Men,Jeans,Jeans - Recognize,L,Black,3,5230.06,Credit Card,2025-08-08,Hyderabad,15690.18
+a0ce0971-d539-4941-a841-71d6487c7462,Elizabeth Wilcox,latoya01@gmail.com,3492705758,Women,Dresses,Dresses - Audience,S,White,3,1801.14,Credit Card,2025-06-25,Chennai,5403.42
+a0f87842-674f-49d5-9b19-3c18eda2dc89,Andrew Cook,brandyford@hotmail.com,051-233-3181x51294,Kids,Sneakers,Sneakers - Really,XXL,Black,1,4860.3,Debit Card,2025-04-03,Delhi,4860.3
+80a6d075-0c95-4594-8485-5908081ef601,Juan Franklin,ccortez@martin.com,(496)211-6075x24517,Women,Dresses,Dresses - Company,L,Green,4,1942.93,Debit Card,2024-12-23,Delhi,7771.72
+2e1a5ef9-211b-409b-ba75-436c35856f70,John Vincent,scott48@hotmail.com,001-515-776-4665x5237,Women,Dresses,Dresses - Share,L,Yellow,3,2568.63,Cash on Delivery,2025-07-13,Hyderabad,7705.89
+5ed7d79d-ccfa-40e8-8a98-a6810c3e7794,Tara Jones,dixonjulie@hotmail.com,+1-103-326-0470x574,Kids,T-Shirts,T-Shirts - But,S,Black,5,7572.65,Cash on Delivery,2025-07-20,Chennai,37863.25
+de5f1238-b0c1-44f9-9e6d-1d239de1434d,Joseph Burch,richard22@perez.com,058.393.7526x575,Men,T-Shirts,T-Shirts - Impact,M,Beige,5,4793.35,Credit Card,2025-07-08,Kolkata,23966.75
+ab3e9ed5-472c-41dc-8e00-ac000bad1b56,Sean Henry,brandon75@mendoza-green.com,001-888-688-2242x2262,Kids,Sneakers,Sneakers - Baby,XXL,Beige,2,2170.63,Debit Card,2025-01-16,Mumbai,4341.26
+3903ccfa-709c-4a9e-8aef-da790325962f,David Donovan,deannablack@hotmail.com,001-192-477-6212x37875,Men,Shirts,Shirts - Join,M,Blue,2,680.32,Credit Card,2025-07-17,Hyderabad,1360.64
+a2b59af2-dcb9-4ea2-b8fa-e93d02eacc57,Bradley Williams,garciakristen@gmail.com,135-176-3096,Women,Tops,Tops - Worker,XL,Pink,2,3800.67,Credit Card,2025-08-28,Pune,7601.34
+422f1a61-de18-4f3e-99af-9b8df03fe985,Juan Parker,joneserica@hotmail.com,952-276-3906x777,Women,Heels,Heels - How,XL,Green,3,1536.52,Cash on Delivery,2025-01-17,Chennai,4609.56
+a5074cf4-95e6-47fb-87be-c8a979f76ec1,Jessica Alexander,zrose@williams.com,2541262438,Kids,Jackets,Jackets - Population,L,Blue,3,5507.4,Wallet,2024-10-13,Chennai,16522.2
+254eaeea-7862-41b9-8e0f-6162a68b6669,Joshua Lee,rlee@hotmail.com,1250691328,Kids,T-Shirts,T-Shirts - Hotel,L,Blue,5,5226.38,Cash on Delivery,2025-06-09,Delhi,26131.9
+41da35a3-0575-4261-a904-3d78fab3e0fa,Brian Rowland,connie67@wood.net,308.384.5433,Men,Jeans,Jeans - Film,XS,Brown,5,7131.41,Credit Card,2025-08-29,Delhi,35657.05
+122d9573-ffe7-41d8-9a1e-a41f391ed428,Erica Haynes,amanda99@peterson.org,001-678-488-9118x92141,Women,Bags,Bags - Member,M,Green,1,6212.81,Wallet,2025-04-23,Kolkata,6212.81
+a11cbad2-6013-400b-a94f-eeac48af9f68,Charles Baldwin,robertscassandra@gmail.com,(313)176-6275x644,Women,Bags,Bags - Maybe,XS,Black,2,857.03,UPI,2024-10-01,Chennai,1714.06
+d288b92e-fc19-49bf-82f4-b91499f9f365,Jeffrey Frye,christophertownsend@kelly.net,391.665.7359,Men,Shirts,Shirts - Sort,XXL,Green,3,2074.92,Cash on Delivery,2025-05-26,Bangalore,6224.76
+91d86680-dacc-4b51-b063-a0c426e80ced,Christian Mccoy,vbarnes@hotmail.com,213-953-5154,Men,Jackets,Jackets - Pass,XXL,Pink,2,1564.9,Debit Card,2025-04-24,Bangalore,3129.8
+7b349b63-fe68-4184-a54b-38d115b9bbf9,Mark Mccarthy,stacy08@mccann.com,955.919.2771,Men,Shoes,Shoes - Beautiful,L,Beige,3,1649.16,Wallet,2025-01-09,Delhi,4947.48
+f7fd4c7f-a32d-4704-bd00-46d3278921b5,Guy Wilson,pamelajacobs@mitchell.com,(859)405-0445,Kids,Jackets,Jackets - Such,XXL,Black,1,1628.39,UPI,2025-04-17,Hyderabad,1628.39
+58d6fad9-ee8e-4ae8-9f04-9e57b18bb792,Bradley Steele,hallkaitlyn@escobar-payne.com,+1-506-184-7923x367,Women,Jeans,Jeans - Far,M,Yellow,4,3885.62,Credit Card,2025-01-27,Mumbai,15542.48
+04e7432a-5239-4db0-9d91-405f7c705486,Tiffany Davis,vhowell@gmail.com,560.588.3111x264,Women,Dresses,Dresses - Firm,XXL,White,3,7875.16,Debit Card,2025-05-15,Chennai,23625.48
+dbb95607-ccc9-4a8f-92bd-c7e6e1143fbb,Christopher Foster,qhoward@gmail.com,(419)695-5431,Kids,Jackets,Jackets - Civil,XXL,Yellow,4,1998.77,Wallet,2025-02-17,Delhi,7995.08
+bae0110a-4202-40f8-9ae8-e04f770c2d3c,Thomas Adams,martincindy@diaz.com,+1-600-966-5334x449,Women,Bags,Bags - Trip,XL,Red,1,3203.09,Debit Card,2024-09-18,Kolkata,3203.09
+c25c9eb9-ef53-4dce-990a-db3fb7116df2,Tracy Marshall,michaelcosta@gmail.com,001-773-553-8457,Women,Bags,Bags - Little,S,Pink,3,2796.48,Credit Card,2025-04-30,Delhi,8389.44
+48871e1b-2755-4f57-9a4b-a7d650510c44,Brian Griffin,mark76@gmail.com,001-159-466-7502x7036,Kids,Jackets,Jackets - Catch,M,Pink,1,7505.93,Credit Card,2025-02-03,Kolkata,7505.93
+29d85b61-7413-459d-a0e5-e1b2831033b5,Justin White,christian07@gmail.com,583-260-2565x85796,Kids,Jackets,Jackets - Town,S,Brown,1,2956.62,Debit Card,2025-03-21,Chennai,2956.62
+13b6749f-9652-45d3-856b-e12bd4f00e93,Regina Lin,bhart@yahoo.com,193-003-1607,Kids,Sneakers,Sneakers - Dinner,XXL,Yellow,3,3535.81,Credit Card,2025-08-24,Chennai,10607.43
+c59bdd4b-a993-4322-80a1-f23a33951403,Diane Giles,bradforddominique@hotmail.com,001-664-121-7908x748,Men,Shoes,Shoes - His,L,Red,2,811.15,Cash on Delivery,2025-06-07,Delhi,1622.3
+52ad546b-90af-4434-bf6c-aa67753d2194,Kenneth Cardenas,jamesmclaughlin@tate-orr.info,001-134-892-3225x11356,Kids,Jackets,Jackets - Sit,L,Pink,1,5167.18,Credit Card,2025-04-08,Mumbai,5167.18
+f639c3e0-ac21-4543-aba0-676f69849cb6,Janet Delgado,sabrinabradley@hotmail.com,475.039.4835x6204,Women,Tops,Tops - Movement,XXL,Red,1,3045.53,Wallet,2025-08-23,Kolkata,3045.53
+059e1fd5-f304-4612-8ee6-719250671294,Kevin Osborn,monicavelez@jones.biz,001-283-204-6184x80529,Men,Jeans,Jeans - Issue,S,Blue,3,4698.89,Wallet,2025-05-11,Mumbai,14096.67
+28d2f2dc-cad5-4740-b8f7-2215f1288680,Wanda Reynolds,hudsonpaige@hotmail.com,560-957-6737x6019,Men,T-Shirts,T-Shirts - Skill,S,Green,1,3366.19,UPI,2025-02-05,Bangalore,3366.19
+1bbff59c-fa06-4636-b63d-73981996f275,Ryan Miller,lawrenceelizabeth@gibson-summers.net,224-137-0842x492,Women,Dresses,Dresses - Mrs,XL,Red,1,4313.34,UPI,2025-01-01,Mumbai,4313.34
+1283a3ea-24ba-4a2a-853e-606091c378c6,Ricky Payne,natalieking@yahoo.com,395-980-4849,Men,Shirts,Shirts - Couple,S,Brown,5,6638.12,UPI,2025-09-11,Bangalore,33190.6
+3e787676-f26d-4b58-bf53-6cb0710ab67b,Linda Shepard,pwarren@marsh-jones.com,750-244-1440,Women,Bags,Bags - Couple,S,Pink,1,3952.36,Wallet,2025-02-03,Kolkata,3952.36
+89ed56d3-4200-427e-bda7-1586a5728327,Nicholas Powell,edwinramos@wilson.com,001-891-302-1815x304,Men,Jeans,Jeans - Run,XXL,Black,5,6410.06,Debit Card,2025-05-18,Hyderabad,32050.3
+de8996f7-7f0f-4c9c-b35e-fb3f748ae4c9,John Cross,adeleon@parker.biz,(080)272-2790,Men,T-Shirts,T-Shirts - Agreement,XS,Brown,3,7209.37,Cash on Delivery,2024-10-25,Delhi,21628.11
+da246ffb-3cbb-4b26-b637-23153446a69c,Sabrina Reyes,garzachad@gmail.com,(019)597-7054x048,Women,Tops,Tops - Moment,S,Grey,5,4894.64,Credit Card,2024-11-27,Delhi,24473.2
+d8ce9766-1af3-4a59-bce8-09cdc6afac66,Gabrielle Thompson,kevinsoto@walter.org,7105866965,Men,Jackets,Jackets - After,M,Black,2,2135.89,UPI,2025-03-24,Delhi,4271.78
+9fff5e0d-ffd4-463a-9693-7280322e9848,Jeremy White,lindsaygarza@evans.biz,001-242-896-2681x2973,Men,Shirts,Shirts - Size,S,Yellow,4,1534.48,Wallet,2024-12-26,Hyderabad,6137.92
+60011c3b-b0dd-4cdd-91d5-20148deb01fa,Justin Yu,wilsonjanet@yahoo.com,(247)743-9701x33012,Women,Jeans,Jeans - Listen,M,Yellow,2,4880.4,Cash on Delivery,2025-08-14,Delhi,9760.8
+e0c78fdd-6d3a-4f8e-ad1d-6831595fc0f2,Leah Wallace,hsnow@jones-hood.biz,(137)594-9855,Kids,Jackets,Jackets - Value,L,Yellow,5,6477.57,Cash on Delivery,2025-08-24,Kolkata,32387.85
+d29e4ebc-c139-4a0e-9983-2427973378cf,Brian Grant,uhill@gmail.com,834-185-5892x00857,Kids,T-Shirts,T-Shirts - Together,XL,Grey,3,4842.02,Wallet,2025-01-28,Hyderabad,14526.06
+de5f4bad-595a-49bd-bee8-0072abddad18,Tracy Mcdonald,lprice@johns.com,879-516-9248x3107,Men,Shirts,Shirts - Deep,XXL,White,4,6410.39,Wallet,2025-09-01,Mumbai,25641.56
+8618e1ce-a6cf-4faa-9f23-7ca013c208a1,Larry Smith,clarkdonald@brooks.org,0579876001,Kids,Jackets,Jackets - Final,L,Green,3,3941.55,Wallet,2025-06-20,Mumbai,11824.65
+68e1d4c5-9549-4582-a851-59e0a5c01d4c,Andrew Moran,hchristensen@gmail.com,+1-083-832-4289x149,Men,Jeans,Jeans - Imagine,S,Grey,5,5194.04,Credit Card,2025-08-22,Hyderabad,25970.2
+c97ddefa-1379-4ed7-add3-e27eab01c738,Angela Jones,holmesjill@brown.biz,+1-533-202-9538x568,Kids,T-Shirts,T-Shirts - Deal,XL,Grey,1,5895.32,Credit Card,2025-03-11,Pune,5895.32
+4e426f29-aacc-4d1d-8166-763595e295a2,Christopher Vaughn,meyermanuel@hotmail.com,4619059974,Women,Dresses,Dresses - Trial,XS,Brown,5,6158.48,Debit Card,2024-11-25,Kolkata,30792.4
+386c3c8d-65b9-4e62-9f0a-d1caa2ee9e3e,Lindsey Ponce,charles87@hubbard.org,(619)837-8735,Kids,T-Shirts,T-Shirts - Action,L,Green,5,4348.99,Wallet,2025-07-13,Bangalore,21744.95
+624212c1-4332-4d0e-ab20-23e260a40c73,Mike Serrano,brian16@gmail.com,+1-741-724-8714x997,Kids,Jackets,Jackets - Control,XXL,Blue,2,529.0,Wallet,2025-02-27,Chennai,1058.0
+13e080f6-b2ac-4630-97f5-daff328b18f5,Melissa Li,derrickyoung@herrera.com,001-464-953-4752x190,Women,Heels,Heels - People,S,Black,4,5273.81,Credit Card,2024-10-20,Kolkata,21095.24
+7015a8bd-5fc9-4e97-89de-3a76c35ee2dd,Leah Suarez,nvasquez@yahoo.com,001-085-601-4837x889,Men,Shoes,Shoes - Probably,L,White,2,6348.85,UPI,2024-11-09,Bangalore,12697.7
+8146dd35-e442-4ba7-b052-0dca70529482,Lindsay Reese,adam13@hotmail.com,943.720.5783x978,Men,T-Shirts,T-Shirts - Possible,S,White,5,4463.12,Credit Card,2024-09-30,Chennai,22315.6
+77590ff3-af47-45d8-b387-7b7fc24a50e8,Jill Hughes,wdawson@gmail.com,697-714-0336x178,Women,Tops,Tops - Pass,XXL,Black,2,1075.58,Cash on Delivery,2025-06-14,Kolkata,2151.16
+9441703c-2eb8-4d9b-9078-0b47bbed4742,Karina Johnson,rgriffin@hotmail.com,5880192353,Men,Jeans,Jeans - Term,S,Green,1,2999.89,Wallet,2025-08-11,Bangalore,2999.89
+3c3d650b-f6ad-4ad5-a177-1f471afff977,Mary Walker,juarezgary@dickson-martin.com,1246736853,Men,Jeans,Jeans - Else,M,Brown,1,6389.83,UPI,2025-01-10,Kolkata,6389.83
+050a3803-57e1-4acd-8be2-4cb4315c5fb0,Christina Peters,bbarker@oneill.com,+1-483-324-0239,Men,Shirts,Shirts - Loss,M,White,2,6719.14,UPI,2025-01-23,Delhi,13438.28
+0a17c104-5124-4a22-a1c3-ba75ede73b34,Nicole Blake,cynthia98@gmail.com,(253)694-9277x074,Women,Tops,Tops - Relationship,XS,Blue,3,5328.76,UPI,2025-05-31,Mumbai,15986.28
+5cdd9fc7-6dff-46cb-bf21-97d6a09f287c,Carolyn Jenkins,ccarr@waters.org,401-096-9559x322,Women,Dresses,Dresses - Notice,XS,White,5,1308.86,Wallet,2025-04-15,Pune,6544.3
+d8b4251f-2f06-45d4-984b-ce09baf44474,Kenneth Wright,timothy64@harris.com,001-645-476-1263x1672,Kids,Jackets,Jackets - Kitchen,XS,Grey,3,3358.31,Cash on Delivery,2025-02-18,Kolkata,10074.93
+9d095e08-7aca-47ae-967a-4eea97b51b5f,Olivia White,price@gmail.com,(018)658-3400x6603,Men,Shirts,Shirts - Necessary,M,Blue,5,1119.84,Wallet,2025-05-01,Hyderabad,5599.2
+1e129cef-72f9-4b93-83d4-02a4d53951ad,Sarah Hebert,kendra91@martinez-glover.info,(277)595-3103,Women,Heels,Heels - At,XS,White,3,1800.54,Debit Card,2025-04-13,Chennai,5401.62
+459ad0b2-e4e7-40ab-b479-06c234d742d7,Angela Acevedo,logan75@gmail.com,591.964.9464x6631,Kids,T-Shirts,T-Shirts - Some,L,Beige,4,3537.55,UPI,2025-01-09,Kolkata,14150.2
+5b69ac53-d2d1-42ce-919a-d84ece877e6e,Miss Kelly Chang,richardlogan@owens-steele.biz,+1-133-260-3539x344,Women,Jeans,Jeans - Recognize,XXL,Black,2,5170.84,Cash on Delivery,2025-08-09,Pune,10341.68
+9f275c20-5476-4c8a-9c24-f97dbe514e3d,Ian Bennett,carrie07@yahoo.com,+1-688-292-6168,Women,Jeans,Jeans - Wear,M,Grey,1,7461.72,UPI,2025-07-12,Delhi,7461.72
+5e23b652-287b-4b80-8cf2-155a8eabfa6d,Daniel Brown,sherryphillips@melendez-clark.com,(000)043-3596,Women,Heels,Heels - Film,S,Green,4,4428.79,Debit Card,2025-01-19,Chennai,17715.16
+6666dd9a-c2ee-4d79-8a5b-438cb83ea208,Tiffany Parker,marklopez@hotmail.com,533.346.3828,Men,Jeans,Jeans - Federal,XS,Yellow,2,7341.21,Wallet,2025-07-18,Kolkata,14682.42
+fe3c87fc-c521-45a5-867d-c62e75cf6b66,Austin Watson,raven92@gmail.com,(159)113-6615x14247,Kids,T-Shirts,T-Shirts - Message,XS,Red,2,2121.18,UPI,2025-04-10,Ahmedabad,4242.36
+6980655c-4ca5-4c9d-945e-ec8f3e3860e8,Shannon Mack,charlottesmith@gmail.com,162.170.0725x48018,Women,Dresses,Dresses - Water,M,Grey,2,2827.6,Wallet,2025-04-10,Pune,5655.2
+559484a3-c7b7-453c-b532-cf070b91e387,Amy Howard,brobertson@yahoo.com,286-612-7444x989,Women,Heels,Heels - Example,XXL,Red,3,4713.18,Wallet,2025-06-21,Bangalore,14139.54
+00e6182d-ba80-4f0c-8b80-a68240a8d79f,Melissa Brewer,reginald19@gmail.com,291-745-3506x1579,Men,T-Shirts,T-Shirts - Agreement,M,Grey,3,1034.66,UPI,2025-06-20,Hyderabad,3103.98
+dcad57cf-2ca0-4156-b117-cf373bdd3ee4,Eric Pineda,castromatthew@moore.com,001-523-466-2488,Women,Bags,Bags - Time,XXL,Red,3,7902.03,Debit Card,2024-12-08,Mumbai,23706.09
+0a2023f3-2666-4eb9-ad7e-231a4b352f9d,Alan Cherry,scottmurphy@gmail.com,001-864-163-3876x92408,Women,Bags,Bags - Central,L,Blue,4,7626.04,Debit Card,2025-01-06,Hyderabad,30504.16
+8fa8acb2-5b0e-4620-8338-081cae15b77f,Aaron Williamson,qavila@fletcher-pratt.org,285.248.0718x0468,Men,Shirts,Shirts - If,XL,Yellow,3,531.17,UPI,2025-02-16,Kolkata,1593.51
+75fadc7f-b195-4d52-9a9d-a640686651b2,Micheal Stewart,geoffrey86@reid-jones.net,001-160-105-2595x3131,Women,Jeans,Jeans - Network,L,Grey,4,4898.69,Cash on Delivery,2025-05-31,Chennai,19594.76
+f4fac0a4-05e5-495d-86df-ba6b89ef7cd5,John Fuentes,leedaniel@patrick.biz,001-230-420-9509x6795,Women,Dresses,Dresses - Night,M,Black,3,4084.92,Wallet,2025-02-24,Mumbai,12254.76
+70b45d8b-478a-49aa-b666-da051e043d49,Taylor Golden,rodriguezkaren@davis-villarreal.com,376.570.9123x39254,Men,T-Shirts,T-Shirts - Station,XL,Pink,4,3135.78,Debit Card,2025-05-06,Bangalore,12543.12
+7b777a8d-b8e7-4c44-84d4-f6fe3cc0fafd,Austin Graham DVM,larsonlucas@heath-ramirez.com,559.317.8526,Women,Dresses,Dresses - Well,XXL,Black,1,7742.84,Wallet,2024-09-29,Bangalore,7742.84
+3856b5e0-d93b-47a5-b5d5-c781c7feb081,Carol Jackson,aellison@barnes.net,+1-299-146-2286x41670,Women,Heels,Heels - View,M,Pink,3,7955.02,Credit Card,2025-07-25,Chennai,23865.06
+48715f9b-5d6f-4929-b7d8-b7632d4ac69d,Justin Nguyen,joseph39@yahoo.com,001-315-517-0376,Men,Jeans,Jeans - Customer,L,Red,1,7879.43,Wallet,2025-04-28,Delhi,7879.43
+be9fe193-b9c3-464d-ac97-b4f07e6ea128,Evan Gonzalez,wattsjulie@yahoo.com,777-059-3972,Men,Shoes,Shoes - Apply,XS,Beige,4,5495.67,Cash on Delivery,2025-09-10,Pune,21982.68
+11560f9d-b6a2-4d5b-aef8-0263834f0ccb,Julie Stephens,christineoneill@gmail.com,540.048.9419,Kids,Shorts,Shorts - Boy,L,Green,2,6068.47,Credit Card,2025-08-02,Delhi,12136.94
+50662ec3-c0b8-4035-aedd-f0312de167c2,Alison Berg,allisonwright@hotmail.com,001-172-497-9471x6626,Women,Bags,Bags - Ready,XXL,Grey,3,6909.28,Credit Card,2024-12-03,Ahmedabad,20727.84
+62100f16-0757-4f28-8dea-e73bca3c86c8,Chelsea Bowman,andrewsjohn@hotmail.com,(262)703-6972,Men,T-Shirts,T-Shirts - Ball,XS,Beige,1,4471.39,Wallet,2025-08-21,Bangalore,4471.39
+6b5f7c67-9036-4413-b1ba-7d7bbf771b38,David Rice,deborahrobertson@gmail.com,(439)804-7874,Women,Heels,Heels - Key,XXL,Yellow,1,5468.1,UPI,2025-09-15,Hyderabad,5468.1
+995013f8-4faa-4e68-9bf7-da8fea5b1dea,Christopher Smith,acostacatherine@wade-david.com,(715)720-0406x3707,Kids,T-Shirts,T-Shirts - Card,XS,Black,3,2890.01,Debit Card,2025-05-28,Hyderabad,8670.03
+e18bd150-44d6-4d32-982c-4e6fbdb92250,Michelle Harrell,christophertanner@yahoo.com,919.702.3906x61206,Men,Shirts,Shirts - Enough,M,Grey,2,6546.63,Cash on Delivery,2024-09-28,Bangalore,13093.26
+0b7fed51-b140-42cb-9205-0152a9fc256e,Mr. Edward Evans MD,jwilliams@hotmail.com,(733)088-4125,Men,Shirts,Shirts - Action,M,Green,1,7537.34,Cash on Delivery,2025-04-12,Delhi,7537.34
+bc7f4a64-3f8d-43be-b40b-2afab2b85596,Cheryl Perez,bpadilla@ramirez.info,001-740-584-2654x984,Men,T-Shirts,T-Shirts - Television,XXL,White,4,1523.69,Cash on Delivery,2025-05-04,Chennai,6094.76
+7ee0e31a-3be8-4448-b557-580137e066d0,Richard Davis,raymondhernandez@weaver.com,+1-264-219-8294,Men,Jackets,Jackets - Cell,XL,Yellow,2,1407.63,Wallet,2024-12-29,Pune,2815.26
+ec6b8ed6-4eba-40bb-aabf-56793b907941,Tracy Solomon,gmaynard@yahoo.com,001-020-108-9341,Women,Bags,Bags - Which,M,Green,2,826.89,Cash on Delivery,2025-06-29,Ahmedabad,1653.78
+7da453d8-eae9-4f46-a78d-479a0dc4da93,Timothy Estrada,cferguson@franklin-marshall.com,543-292-2031,Kids,Sneakers,Sneakers - Cause,XS,Blue,4,6518.9,Cash on Delivery,2025-01-14,Mumbai,26075.6
+78210c55-ed8a-41e2-80a1-907eea257441,Molly Gonzalez,susan87@yahoo.com,(383)232-4413,Women,Dresses,Dresses - Sort,XXL,Beige,3,2833.98,Debit Card,2025-03-27,Chennai,8501.94
+eb438b65-ac4c-4c51-9d6b-d356741533b1,Mary Schultz,jedwards@hotmail.com,+1-394-499-1001x47223,Women,Tops,Tops - Ahead,S,Black,5,2907.6,Debit Card,2025-05-21,Kolkata,14538.0
+f7f9a326-7b67-4357-bfff-493ecca2867b,Stephen Austin,sarah51@cole-davis.org,001-893-579-7554x5471,Men,Shirts,Shirts - Plan,XL,White,2,3331.6,Cash on Delivery,2024-10-09,Pune,6663.2
+cc00fca8-ddb5-4d85-ac09-880b93466a1b,Rebecca Everett,danielwolf@harvey-foster.net,678-493-4126,Kids,T-Shirts,T-Shirts - Study,S,Yellow,2,6821.29,Cash on Delivery,2025-03-18,Bangalore,13642.58
+facbf8b9-533b-49be-8865-4346a7f6106b,Mrs. Amy Flores DDS,charles98@goodwin.com,+1-153-812-7592x07528,Women,Tops,Tops - Keep,S,Blue,1,3468.02,Debit Card,2025-04-24,Bangalore,3468.02
+ba775825-e220-4b77-b58d-4258e759790e,April Conway,johnsonalexander@gmail.com,354-072-8735,Women,Heels,Heels - Effect,XS,Pink,4,1174.26,UPI,2025-04-23,Mumbai,4697.04
+2c9df67d-cc12-482a-b3bd-79e6704d5ff1,Barbara Barrett,taradavis@mendoza.com,628.675.0181x410,Women,Jeans,Jeans - Cultural,S,Yellow,1,7921.56,Cash on Delivery,2024-12-23,Ahmedabad,7921.56
+c3af41e1-d232-495a-bb51-a41a80056f6d,Ms. Angela Manning DDS,hfleming@yahoo.com,(341)345-8302x6394,Men,Shirts,Shirts - Whatever,XS,Green,1,6281.22,Credit Card,2025-08-15,Kolkata,6281.22
+ff464a84-4172-4970-9c45-e80e3edd7626,Timothy Richardson,sotobrian@taylor.com,(539)025-0344,Men,Jeans,Jeans - Open,XS,Black,4,2067.19,UPI,2024-12-06,Bangalore,8268.76
+3cb57e19-1e3e-446c-af3f-dd40e02b0cee,Cindy Valencia,brad40@yahoo.com,001-679-241-9614,Men,T-Shirts,T-Shirts - Meeting,XL,Pink,3,5233.78,Wallet,2025-06-15,Kolkata,15701.34
+71ea713c-5f0c-4345-a067-4041fd86405a,Victoria Gibson,jjones@castillo.org,001-772-673-4840x0593,Women,Jeans,Jeans - Reflect,XL,Green,5,4138.87,Credit Card,2025-02-24,Ahmedabad,20694.35
+cea5d0e6-0f9c-42e3-be55-2feeddcbf866,Seth Bryant,erika16@curry.com,668-295-6885,Kids,Sneakers,Sneakers - Visit,XL,Pink,4,6203.4,Credit Card,2025-06-03,Bangalore,24813.6
+fe01db7d-74f4-4157-bab5-e96e39b44bce,Gerald Hudson,uanderson@gmail.com,775-270-7415x824,Men,Shoes,Shoes - We,S,Beige,2,6634.79,Debit Card,2024-12-15,Chennai,13269.58
+46e5ff4c-2af8-4423-91bf-a8a7f8c80802,Todd Fields,kjones@macdonald.org,3912662332,Kids,Shorts,Shorts - Together,M,Brown,5,2179.21,Debit Card,2025-07-18,Delhi,10896.05
+7c0366b9-3985-4bd3-b884-e78c6a897ddd,Joseph Kaufman,curtismichael@ford.info,087-981-0321,Kids,Shorts,Shorts - No,XS,White,3,4274.41,Wallet,2024-12-10,Delhi,12823.23
+e00ae160-144c-4555-8d72-3774451a601e,Juan King,ericgarcia@yahoo.com,001-490-406-3147,Kids,Shorts,Shorts - Story,XXL,Brown,3,2174.87,Cash on Delivery,2025-06-08,Ahmedabad,6524.61
+f3ab7606-30bc-46b0-aa78-e6cc03ff7e66,Sean Sims,jason41@gmail.com,946-689-7710x8628,Women,Tops,Tops - Girl,XS,Green,3,6104.85,Wallet,2025-04-23,Pune,18314.55
+49710426-573a-42ca-ae21-d9fa99000392,Andrew Jacobs,lestrada@mcpherson-weiss.biz,(949)328-3916,Women,Dresses,Dresses - Executive,L,Brown,4,1506.06,Wallet,2024-12-15,Ahmedabad,6024.24
+6dea7026-9612-438c-8aee-6d58bca4dfee,Kevin Finley,randallwilliams@mathis.com,371-911-0127,Kids,Jackets,Jackets - Mrs,XXL,Brown,3,5603.8,UPI,2025-05-25,Pune,16811.4
+0c5ea672-1bd3-410f-8ba2-90ce926b8fbd,Mary Morales,thompsonemily@hotmail.com,1446247676,Kids,Jackets,Jackets - Talk,L,Green,1,3404.51,UPI,2024-10-16,Mumbai,3404.51
+9c6646ac-7b32-47b4-ad9e-e2ce9ba078a0,Michelle Cervantes,byrdapril@gmail.com,7677438605,Men,Shoes,Shoes - But,XL,Beige,5,7407.36,Cash on Delivery,2025-06-10,Bangalore,37036.8
+6b6941c1-db5f-4bd0-922b-157e448bcf75,Amy Dodson,christinewells@hensley.info,001-581-851-5674x9626,Men,Jackets,Jackets - Service,XL,Grey,4,667.02,Debit Card,2025-05-19,Delhi,2668.08
+e71e64ef-256e-41ac-ae0f-8869cae2a1a8,Chad Rhodes,lkelly@yahoo.com,(194)987-1599x1444,Kids,Sneakers,Sneakers - Attention,L,Black,2,6753.9,UPI,2024-11-07,Bangalore,13507.8
+b62c3747-507a-4b7a-b368-d4753ec5a63b,Jeremy Perez,johnsonsteven@andrews-washington.com,266.534.7772x9620,Men,Shoes,Shoes - Major,S,Yellow,3,4921.6,Credit Card,2024-12-17,Mumbai,14764.8
+0e8248be-be8b-48f1-9baf-6066d1933b12,Nicolas Perez,hfreeman@yahoo.com,086.874.9613x861,Kids,Shorts,Shorts - Good,L,Red,3,6738.68,UPI,2025-02-15,Bangalore,20216.04
+e8e7b7d7-fc73-4e7d-ac75-7a9a79c2859c,Terry Brennan,harperanthony@hotmail.com,+1-844-394-4506,Kids,Shorts,Shorts - Believe,M,Blue,1,1715.02,Wallet,2025-08-07,Pune,1715.02
+2d042e8d-67b7-4942-85ef-4d32572e7481,Bobby Smith,torreschristopher@holmes.com,371.949.7555x91041,Women,Jeans,Jeans - Production,XS,Brown,5,6084.18,Wallet,2025-08-11,Chennai,30420.9
+687b492d-9247-4cf9-b438-658df8c58d72,Denise Alexander,james85@gmail.com,581-550-6301,Women,Bags,Bags - Already,XXL,Red,3,1936.96,Debit Card,2025-04-05,Kolkata,5810.88
+c9982474-56e2-41b9-87ab-2555e59aefdd,Jared Kelly,cbray@herrera-collins.com,001-510-386-4539x7341,Men,Shirts,Shirts - Others,XS,Grey,2,2807.13,UPI,2025-03-19,Bangalore,5614.26
+de6ed12b-4f04-421b-a53d-52157c4ac3b2,Robert Edwards,acostaemma@ochoa.com,001-683-225-7899,Men,Jeans,Jeans - Kind,XXL,Grey,2,5369.83,Credit Card,2025-06-07,Pune,10739.66
+d6b1ab6a-ec57-4003-93d4-b1b0980f4341,Keith Ferguson,matthew02@yahoo.com,(959)533-9352x08421,Kids,Jackets,Jackets - Cup,M,Pink,2,4193.82,Credit Card,2025-04-26,Hyderabad,8387.64
+1f47abff-f260-44a0-a50d-06b715dad3e5,Richard Perry,james48@jacobs.org,735.501.0895x20750,Kids,Jackets,Jackets - Too,XXL,White,5,5205.86,UPI,2025-09-04,Hyderabad,26029.3
+6da96498-5da9-4b77-a031-77044950bfc4,Catherine Nguyen,daniel80@yahoo.com,001-456-318-5532x932,Kids,Jackets,Jackets - Week,M,Beige,3,1969.46,Wallet,2025-05-05,Chennai,5908.38
+46e3a64b-dd42-4780-8b44-1fd11e72d82f,Sara Smith,qhoover@hotmail.com,001-687-413-9783,Kids,Jackets,Jackets - Customer,XS,Grey,1,902.75,Wallet,2025-03-17,Bangalore,902.75
+6814f373-6b88-4837-99bb-2fac70d108c8,Gary Taylor,mcdowellrebecca@castro.com,+1-960-322-2088x38631,Kids,T-Shirts,T-Shirts - Staff,XS,White,2,3357.37,Cash on Delivery,2024-11-29,Mumbai,6714.74
+27230f51-070b-4f0d-bbe2-aec764a0b37a,Tamara Henry,jennifer52@yahoo.com,725.561.6188,Kids,Shorts,Shorts - Specific,L,Pink,1,6465.36,Credit Card,2025-04-04,Mumbai,6465.36
+8ea5f12a-693f-4020-accb-8820cdbe9940,Gary Kim,butlercarrie@johnson.com,+1-924-254-9162x419,Men,Jackets,Jackets - Shoulder,XXL,Beige,3,1742.37,UPI,2025-06-01,Kolkata,5227.11
+79e33abe-41a7-4416-ab9b-c83c181d017a,Richard Beck,walterbarnett@gonzales.com,001-593-127-4917,Kids,Shorts,Shorts - Yeah,XXL,Beige,1,7007.46,Cash on Delivery,2025-07-16,Pune,7007.46
+0480c7b2-6218-42e7-8356-cfbffbbb8d32,Ian Davidson,wanda16@yahoo.com,+1-114-752-5224x30856,Men,Shirts,Shirts - Magazine,XXL,Green,3,1439.92,UPI,2024-12-25,Chennai,4319.76
+7dd51fcf-4e2c-47bf-a9e2-c7ba71b89e23,Katie Richardson,joanne91@george-bowen.com,001-501-323-9456,Kids,T-Shirts,T-Shirts - But,S,Black,4,3670.37,Wallet,2024-09-16,Delhi,14681.48
+f1935cb4-9517-4f60-b181-0111e7a0005a,Zachary Johnson,andrea69@curry.com,890-690-0568x3232,Women,Jeans,Jeans - Might,L,Black,2,7417.86,Wallet,2024-11-07,Pune,14835.72
+9c23b5d8-ba3c-4282-9e6e-eb3ff61f38ae,Samuel Cabrera,jacob70@howard.org,+1-487-216-7898,Men,Shoes,Shoes - Consumer,M,Green,5,6107.38,Debit Card,2024-12-01,Delhi,30536.9
+7a7fc4c1-7abe-41f9-b5b6-fd9587274978,Derek Carr,iwashington@gmail.com,001-111-332-3200x685,Men,Shirts,Shirts - Center,XXL,Grey,3,4562.84,UPI,2025-06-30,Pune,13688.52
+59e989d8-c743-4198-9646-3925e21cf3ef,Sarah Grant,katrina90@mann-olsen.biz,001-042-619-3037x9011,Men,Shirts,Shirts - Federal,XXL,Grey,2,1074.75,Credit Card,2025-07-03,Hyderabad,2149.5
+4e4a66af-9394-4032-bc51-25ddcdd65ded,Michelle Meyers,nicholasjones@mccormick.org,(063)971-6614x213,Kids,Jackets,Jackets - Campaign,XL,Blue,2,5366.59,Wallet,2024-09-16,Chennai,10733.18
+6f1b800b-9f55-4147-9091-a146b52dfc4f,Colin Simon,gali@yahoo.com,829-097-9751x951,Kids,T-Shirts,T-Shirts - Policy,L,Grey,3,5344.41,Cash on Delivery,2024-12-31,Hyderabad,16033.23
+7f5e23fd-d746-4fd6-b324-6b9c069dff70,Melissa Conway,sotosteven@morgan-miller.com,(044)833-5358x3981,Men,Shoes,Shoes - Let,M,Black,5,6432.58,Credit Card,2024-10-06,Hyderabad,32162.9
+ef79e1df-d0c8-4888-ba4f-e4952f83d6b5,Joseph Taylor,tim84@green-vasquez.com,941.086.9022x15807,Kids,Sneakers,Sneakers - Forget,L,Pink,1,1284.82,Debit Card,2025-05-06,Chennai,1284.82
+ae2c5610-9348-46fe-b962-10296b3014e4,Evan Stone,marypadilla@rodriguez.com,826-955-0353,Men,Jeans,Jeans - Red,L,Green,2,6628.06,UPI,2025-05-08,Pune,13256.12
+371ff1c6-ac2b-4be0-b8b4-edd1dde24b15,Tonya Khan,hortonlinda@snyder.com,755-175-9130x9408,Kids,Jackets,Jackets - Amount,XXL,Blue,3,6951.09,Credit Card,2024-11-30,Pune,20853.27
+7c10dbdb-b3c7-4043-ad84-e90c13aa9812,Phyllis Clark,wlopez@davidson-dunn.com,+1-922-170-3311x53133,Men,Shirts,Shirts - Own,L,Grey,3,1205.11,Cash on Delivery,2025-07-04,Hyderabad,3615.33
+f59ba435-b630-491e-9b41-b443cfa2bfdc,Amanda Elliott,william61@yahoo.com,744-402-5021x5157,Men,Jeans,Jeans - Price,XS,Yellow,1,4125.74,Cash on Delivery,2025-05-17,Mumbai,4125.74
+c39cc98c-238b-4066-a330-64d07aadb5bd,Daniel Marks,nathanielhenderson@hotmail.com,(687)518-1173x045,Kids,Jackets,Jackets - Bring,XXL,Green,2,4507.1,UPI,2024-12-13,Chennai,9014.2
+727783b2-a35f-446a-9b9f-e0a196947881,Martin Ferguson,martinezgary@phillips-olsen.com,126.006.2162x0069,Men,T-Shirts,T-Shirts - However,S,Grey,4,3373.37,Credit Card,2025-06-22,Hyderabad,13493.48
+221f46ed-6f05-47c6-b002-4c268eebe5b1,Charles Taylor,russellalison@barber.com,2481003114,Kids,Jackets,Jackets - Especially,S,Yellow,4,3651.62,UPI,2025-05-30,Mumbai,14606.48
+7826bad0-857a-478c-b940-af0f306d480b,Joseph Yang,walterjohn@gmail.com,(638)416-0772x4002,Men,T-Shirts,T-Shirts - Develop,M,Pink,2,3383.31,Debit Card,2024-10-24,Mumbai,6766.62
+78db2bc8-0d7a-4d53-9055-2b2932feb5c0,Devin Cohen,frankbell@strickland-davis.com,+1-831-636-7929x5189,Women,Heels,Heels - Country,XS,Grey,4,5535.69,Credit Card,2024-12-18,Bangalore,22142.76
+53ddff75-d8ad-4807-9575-520c693cd36d,Mark Gray,sabrina77@kidd.com,979-466-9248x47557,Kids,T-Shirts,T-Shirts - Here,L,Yellow,2,5314.01,Debit Card,2025-04-12,Hyderabad,10628.02
+47f46ede-35ac-46a0-a892-cbb226222baa,Amy Reyes MD,lawsonchristina@tate.com,+1-937-201-9058,Women,Heels,Heels - State,M,Blue,2,7731.31,Wallet,2024-10-04,Pune,15462.62
+cacc6846-45e8-486f-9aa1-0c79c7084d93,Matthew Rojas,kennethnavarro@hotmail.com,(124)487-0363,Men,T-Shirts,T-Shirts - Improve,S,Beige,4,7913.99,Wallet,2025-03-07,Bangalore,31655.96
+b98518e7-895d-471a-a0ec-280a214b0b1a,Gabriel Oconnor,phillipsnathaniel@yahoo.com,001-073-673-5365x63179,Men,Jeans,Jeans - Republican,XS,White,3,856.2,Wallet,2025-07-04,Kolkata,2568.6
+e37028bb-8e59-4bcd-befb-8d27abe23955,Donald Santos,robert28@miller-dawson.info,907-141-4984x60918,Kids,Shorts,Shorts - That,XL,White,4,4460.94,Credit Card,2025-04-15,Ahmedabad,17843.76
+5f22ce4f-26ee-4311-84d1-d3757f9f5ad4,Kenneth Shaw,elizabeth34@gmail.com,966-751-7439,Kids,Shorts,Shorts - Another,M,Red,2,6735.95,Credit Card,2025-04-17,Mumbai,13471.9
+3180fe7c-e4e7-408e-95f3-652c3c61356c,Meredith Mason,colleengarza@gmail.com,001-851-797-6944x277,Kids,Sneakers,Sneakers - Message,S,Yellow,5,2601.13,Debit Card,2024-09-20,Bangalore,13005.65
+1c714659-5f5c-4e37-a736-f4281547d81e,James Morrow,james34@diaz-sharp.com,555.767.4724,Kids,T-Shirts,T-Shirts - Wind,XXL,Brown,4,6525.59,Wallet,2025-05-28,Chennai,26102.36
+dd90bfd5-2e02-4529-92e4-46fcac4c4f90,Kirk Johnson,jonescharles@conrad-hunter.biz,+1-448-392-1068x19203,Kids,T-Shirts,T-Shirts - Expect,M,Blue,2,2644.65,Cash on Delivery,2025-04-12,Bangalore,5289.3
+374fc22a-7674-4c6b-9cc7-99c551705160,Jesus Powers,sherriwilson@yahoo.com,001-574-759-4302x702,Men,Shirts,Shirts - Edge,XS,Beige,1,1961.77,Wallet,2024-09-28,Hyderabad,1961.77
+4f866957-441a-4f59-97c0-3187745b7601,Bethany Ross,ocummings@yahoo.com,096-691-3745x3270,Women,Heels,Heels - Democratic,XL,Green,3,6192.02,Wallet,2025-01-26,Kolkata,18576.06
+966f0533-b00a-416d-ae40-80aa7d49570e,Sherry Richmond,josecarroll@garcia-rodriguez.org,+1-676-854-0092x529,Women,Heels,Heels - Our,L,Grey,3,1272.71,Debit Card,2025-05-26,Ahmedabad,3818.13
+84f643a6-1921-4195-a541-cbbe3c698556,Daniel Marquez,janetfrench@hotmail.com,+1-057-528-6055x979,Women,Dresses,Dresses - I,M,Grey,5,5970.99,UPI,2025-08-22,Ahmedabad,29854.95
+2ade7326-7fd8-4e51-9c80-cb9b37829ab1,Jose Torres,rhunt@yahoo.com,957.512.9302x04562,Women,Jeans,Jeans - Camera,XS,Black,2,5940.42,Debit Card,2024-12-19,Bangalore,11880.84
+280b4123-795d-4720-b4b4-59111df54d81,Sherry Bautista,katherine22@yahoo.com,+1-171-034-8498,Kids,T-Shirts,T-Shirts - Expert,XL,Green,4,4528.78,Wallet,2025-06-04,Hyderabad,18115.12
+adfd22f3-5b2d-4abf-afa1-d864b20a0807,William Stephens,samanthascott@duran.biz,+1-058-375-1258,Kids,Shorts,Shorts - Dinner,XXL,Blue,5,4769.71,UPI,2025-08-09,Delhi,23848.55
+c0fb4000-27ac-4c39-ad4f-cff56e4826e8,Karen Lee,hoffmanjavier@hotmail.com,619-350-1688x2194,Kids,Shorts,Shorts - Clearly,M,Green,4,7388.53,UPI,2025-09-11,Mumbai,29554.12
+13a8a3fb-17da-424e-8e60-9974af10ef16,John Miller,danielreyes@yahoo.com,374.325.2390,Kids,Jackets,Jackets - Race,XXL,Beige,3,1634.84,Cash on Delivery,2025-02-01,Hyderabad,4904.52
+28234260-bf0c-436c-90f3-b45671d4ddc7,Patrick Ryan,lisafisher@keller.org,936.483.7834,Men,Jeans,Jeans - Figure,M,Black,4,7529.76,Wallet,2025-07-02,Ahmedabad,30119.04
+996157f4-259b-400b-862f-68c8e617fc93,Rachel Berry,frankwu@hotmail.com,483.003.5130,Kids,Sneakers,Sneakers - Owner,S,Yellow,1,2568.19,Wallet,2025-02-10,Hyderabad,2568.19
+59d9e7ac-04bf-4bcb-b05b-24bf2fed9624,Mary Chapman,gmiller@valencia.com,001-540-644-8360,Men,Shirts,Shirts - Reason,S,Red,2,3337.57,Cash on Delivery,2024-10-13,Mumbai,6675.14
+82e627c5-fb19-4f3d-ad66-fe0646a4f4df,Alvin Smith,lisa99@sutton.com,(788)074-4213x5039,Men,Jackets,Jackets - Whole,XL,Grey,4,1562.47,Credit Card,2025-09-06,Mumbai,6249.88
+7da8215b-991f-4cf9-aa7f-709dfb2bf1ba,Jorge Lyons,iolson@gmail.com,994.266.7094,Women,Dresses,Dresses - Practice,S,Black,3,6096.31,Credit Card,2025-01-01,Bangalore,18288.93
+1491c634-56d9-4fe4-b547-1f55a00f0abb,Amanda Miller,robinsonkelly@wright.org,370.621.5095x61431,Kids,Sneakers,Sneakers - Concern,XXL,Red,5,2471.31,Credit Card,2025-05-26,Ahmedabad,12356.55
+a7b67159-4e07-4650-b841-70aca71fee3b,Paul Miller,charles30@hotmail.com,529.581.7558,Kids,Sneakers,Sneakers - Box,XS,Green,2,3087.56,Debit Card,2025-04-24,Delhi,6175.12
+4fd7f5fa-c491-4279-b2a9-94f858a4eaf8,Mark Holden,stephen94@brewer.com,001-387-462-2587x210,Kids,Shorts,Shorts - Take,S,Red,1,2867.14,Credit Card,2024-10-18,Bangalore,2867.14
+990ec176-c5f4-4b9d-8ce6-fef28b909b88,Robin Carter,zhall@smith.biz,001-774-962-9955,Women,Heels,Heels - Soldier,XL,Brown,4,3816.29,Credit Card,2025-04-21,Bangalore,15265.16
+52897a1e-e71c-438f-a5eb-97cce51e1306,Rose Walls,ramireztroy@yahoo.com,001-759-565-9540x3445,Kids,Shorts,Shorts - Three,XS,Black,1,6873.05,Credit Card,2025-09-01,Bangalore,6873.05
+2e94e5e7-e9fb-498a-8a56-315455f494e5,Dr. Kelly Hampton MD,howelljennifer@martin-oconnor.biz,+1-970-153-2825x86281,Kids,Sneakers,Sneakers - Girl,XXL,Yellow,5,4417.72,Cash on Delivery,2025-08-26,Hyderabad,22088.6
+47189eda-c745-4c2e-a146-7bb8a1a817b8,Kathleen Lopez MD,ballen@hotmail.com,252-650-9019x232,Women,Dresses,Dresses - Charge,L,Black,1,6343.25,Cash on Delivery,2025-09-06,Chennai,6343.25
+61998780-0b93-4693-925d-4938785e5743,Matthew Roberts,henrysexton@crawford-thomas.com,+1-415-360-4802x400,Men,T-Shirts,T-Shirts - Fine,XL,Yellow,2,1459.91,UPI,2025-08-19,Bangalore,2919.82
+cad9ada0-2e34-4f8e-9f34-0197edbc681b,Sarah Daniels,wandaball@gmail.com,001-382-319-8168x9003,Women,Dresses,Dresses - Face,S,Red,3,6522.8,Credit Card,2024-11-04,Ahmedabad,19568.4
+04c3212f-21f7-4c2e-9195-02f77554d1af,Shawn Johnson,rachelmaxwell@gmail.com,+1-675-083-4415,Men,T-Shirts,T-Shirts - Meeting,XXL,Blue,2,3044.74,Wallet,2025-05-15,Ahmedabad,6089.48
+91e5528b-8285-4fc6-86a2-ac20df0d0857,Fred Jackson,larsenbarbara@walsh-wright.com,6799779876,Men,Jeans,Jeans - Right,S,Yellow,2,5820.14,Wallet,2025-03-15,Pune,11640.28
+124e59fd-a2ab-4d5e-8112-7c909d9720aa,Matthew Gibson,xmoore@hotmail.com,(724)922-1072,Kids,Sneakers,Sneakers - Law,XS,Brown,3,3172.51,Debit Card,2025-09-07,Delhi,9517.53
+42a4a4db-c8f6-4503-8d0d-086c5c35ed30,Monica Jones,dylansalinas@hotmail.com,792.180.6593,Women,Heels,Heels - Help,XXL,White,2,1363.51,UPI,2025-08-07,Hyderabad,2727.02
+549c81b0-a655-41d4-8184-6d838962698c,Chad Garcia,shaunfernandez@jones.com,(945)565-5828x40813,Women,Heels,Heels - Middle,L,Pink,4,2187.84,Wallet,2024-12-06,Ahmedabad,8751.36
+a21f626d-875e-4fd9-9a28-8af890669c7c,Charles Burch,smithsherry@gmail.com,121.424.8250,Men,Shirts,Shirts - Evidence,XL,Pink,5,4098.61,UPI,2025-07-13,Delhi,20493.05
+cb9d2987-aede-4dc7-b7f1-1b04d101eded,Robert Paul,beverlyjones@hotmail.com,(304)961-5424x17387,Women,Dresses,Dresses - Old,XS,White,1,7805.85,UPI,2025-08-25,Delhi,7805.85
+1ed7d070-618a-455b-9720-e40289c575ea,Charles Blevins,david26@aguilar.com,001-654-926-2950x726,Women,Jeans,Jeans - Decision,XS,Yellow,1,766.7,Cash on Delivery,2024-12-13,Hyderabad,766.7
+ad694565-fea0-44e2-ba0c-c7fb9b7beaa4,Monica Adams,alisoncummings@gmail.com,+1-428-617-2849x868,Kids,T-Shirts,T-Shirts - Itself,XXL,Red,3,2929.4,Wallet,2024-12-15,Chennai,8788.2
+5a753da3-d249-495e-9fce-3faa7471e52e,Dean Jackson,kevin96@clark.com,039-509-9347,Men,T-Shirts,T-Shirts - Think,XL,White,5,1578.99,Wallet,2025-06-07,Kolkata,7894.95
+44fec5e5-a06e-4d05-8eb8-07db1444109c,Yvette Scott,mzhang@hotmail.com,348-068-2329x130,Men,Jeans,Jeans - Put,XXL,Pink,5,6309.44,UPI,2025-01-20,Chennai,31547.2
+623367f6-b5aa-4102-89f8-2448eb77483a,Steven Schneider,tracie86@taylor.com,164-597-2601x6797,Women,Bags,Bags - Increase,L,Red,2,3821.61,Credit Card,2024-11-23,Delhi,7643.22
+6374ec23-d35b-4942-a32e-4841aaf09905,Christopher Coleman,devonperez@gmail.com,659-302-8989,Women,Tops,Tops - Visit,XXL,Yellow,3,5271.54,Wallet,2025-01-14,Bangalore,15814.62
+fc343297-d7a5-4192-8913-2a779a41850d,Kathy Hancock,jonesnicholas@gmail.com,787.758.2850x20667,Women,Jeans,Jeans - Such,M,Black,1,1685.97,Credit Card,2024-11-25,Hyderabad,1685.97
+420e291b-d610-43d6-bef3-a964e912a84f,James Lynch,brian67@morrison.com,001-523-542-0364x3261,Men,Jeans,Jeans - Exactly,XXL,Blue,5,4335.26,Wallet,2025-08-11,Delhi,21676.3
+cd384093-6444-4bd5-b8ea-b9baed135212,Danielle Carter,mariahbrown@gmail.com,327.636.4184x31290,Kids,Sneakers,Sneakers - Anyone,M,Blue,2,701.35,Credit Card,2025-06-08,Delhi,1402.7
+3db1ce82-6937-47bc-974d-6b3ae6fe3b52,Jessica Romero,daniel47@warner.com,001-106-494-9209x4275,Men,Jeans,Jeans - Different,XS,White,4,999.88,Cash on Delivery,2024-11-23,Bangalore,3999.52
+ee1034d2-3595-4bc7-bc8c-67387618d039,Zachary Murphy,atkinsaustin@coleman.biz,(511)747-1235,Kids,T-Shirts,T-Shirts - Economy,M,Red,3,3375.6,Wallet,2025-02-27,Bangalore,10126.8
+442bd77d-0388-4d47-89dd-c53885dac835,Ryan Tran,michael34@hotmail.com,(713)780-4691x32286,Men,Jackets,Jackets - Win,XS,Grey,1,5956.76,UPI,2024-12-06,Ahmedabad,5956.76
+689e9f44-0cdf-4446-ba00-d16bcef0fff5,Levi Campbell,emilyrodriguez@gmail.com,324-252-5107x6995,Women,Jeans,Jeans - Third,XS,Pink,2,4036.01,Cash on Delivery,2024-09-16,Pune,8072.02
+b09afa72-834c-4e77-87a4-113aa08f5811,Jeffrey Morris,leahday@roberson.biz,(930)465-6362,Women,Heels,Heels - How,L,Yellow,4,5366.23,Credit Card,2024-12-21,Pune,21464.92
+31b7a75e-dc8a-44b4-96e7-fcf69ea85b25,Troy Miller,nschneider@hotmail.com,6690197064,Women,Heels,Heels - Field,L,Black,3,618.0,UPI,2025-07-04,Delhi,1854.0
+f1980d77-2db3-4e7c-8006-8cdd8fcf3553,Douglas Kelly,andrea41@hotmail.com,3370986825,Women,Heels,Heels - Development,L,Blue,1,2647.59,UPI,2025-03-22,Bangalore,2647.59
+2c85fcfe-f5d2-49db-bc00-c9e20e9460ce,Mr. Michael Nguyen,robinsonmichelle@gmail.com,9190928078,Women,Dresses,Dresses - Bank,L,Yellow,2,2620.74,Cash on Delivery,2024-11-24,Bangalore,5241.48
+1ec94b21-2f9a-4719-bcf5-0231ce0673a9,Lori Murray,samuelellis@yahoo.com,345-212-2423,Kids,Sneakers,Sneakers - Realize,XS,Red,1,4603.73,Wallet,2025-04-11,Pune,4603.73
+0be966ee-b409-49d8-a4f3-f09656ba6142,Pamela Brown,leetravis@blair-george.info,+1-396-278-1643x8349,Men,Shoes,Shoes - Senior,M,Black,3,4827.23,UPI,2024-09-24,Bangalore,14481.69
+ae3aa3df-033c-459d-855e-2b2b53cd9f65,Robin Anderson,angela67@lam.com,+1-613-445-7524x03013,Men,T-Shirts,T-Shirts - People,L,Grey,2,7409.75,Debit Card,2025-08-14,Hyderabad,14819.5
+e3b94933-444f-4f83-a7a5-29ae63922c60,Jennifer Lopez,charles97@nguyen.biz,534.278.4280,Men,Jeans,Jeans - Drop,XL,Black,5,7069.91,Debit Card,2025-02-04,Bangalore,35349.55
+c1bb2190-0a6d-4786-9c8a-5ca2b740d7ee,Deanna Hansen,desireejohnson@gmail.com,+1-815-355-0569x019,Men,Shoes,Shoes - Gas,XS,Brown,4,2754.09,UPI,2024-11-21,Pune,11016.36
+3773bc70-7712-40e3-b4a0-ef47a5571e74,Laura Aguilar,meganshepherd@yahoo.com,(691)583-7814,Women,Dresses,Dresses - Friend,XL,White,2,2247.96,Credit Card,2024-12-20,Delhi,4495.92
+05b1d2da-0a65-4be4-9d2b-4d59fdbf0fb4,Rebecca Lawson,xedwards@wells.com,456.727.8166,Kids,Jackets,Jackets - Four,XL,Pink,4,7202.14,Debit Card,2025-04-20,Pune,28808.56
+c1540064-3632-45b4-a903-4ec994f6b889,Heather Robinson,jcox@dickerson.com,+1-084-124-0471x95877,Kids,Jackets,Jackets - Share,XXL,Blue,3,7508.29,UPI,2024-11-17,Pune,22524.87
+b9279804-9261-4f87-85d4-9b726a06a515,Amanda Jackson,acampbell@gonzales-wiggins.com,0366675073,Men,T-Shirts,T-Shirts - Rule,XL,Green,2,4896.81,Cash on Delivery,2024-09-15,Hyderabad,9793.62
+915ea4c8-6558-4624-a1f8-aff45699f90c,Rickey Davis,cindy48@yahoo.com,001-185-284-3127x43525,Men,Shirts,Shirts - Six,S,Black,2,7768.72,UPI,2025-07-31,Chennai,15537.44
+7dda618c-393d-47e7-b192-5afb0d73b460,Danielle Nguyen DVM,harrisbarbara@perry.com,164-067-3788x519,Kids,Sneakers,Sneakers - Popular,M,Blue,3,4424.62,Debit Card,2025-07-02,Delhi,13273.86
+308eb12d-45d8-40b7-9020-6b167af38877,Mark Price,tnichols@gmail.com,001-455-449-9426x7585,Kids,Jackets,Jackets - Within,S,Pink,4,7880.32,Debit Card,2024-10-28,Delhi,31521.28
+aeb92bf8-f786-4926-ad1a-bc31e387d9a7,Veronica Walker,stacymiller@marshall-jackson.com,+1-563-554-9578,Men,T-Shirts,T-Shirts - First,S,Grey,3,3291.86,Credit Card,2024-12-04,Hyderabad,9875.58
+5d6f87e1-3890-48f2-8e74-96ff414adeed,Mark Hernandez,qjackson@montgomery-young.biz,872.773.1763,Women,Tops,Tops - Indicate,S,Yellow,5,6713.89,Debit Card,2025-02-27,Ahmedabad,33569.45
+ecdea326-64dc-4740-ad14-c38d381def28,Trevor Harper,bowmanpatrick@hotmail.com,672.335.0474x658,Women,Bags,Bags - Book,XL,Pink,1,4258.24,Credit Card,2024-12-16,Pune,4258.24
+eb2fbcf3-7b87-4ef7-94c5-ce12fdd54a39,Danielle Medina,rdeleon@mathis-keller.info,511-383-6250,Women,Dresses,Dresses - Wall,XXL,White,4,5214.58,Credit Card,2025-09-05,Ahmedabad,20858.32
+f27a219b-2c45-4065-b910-cb353a91e2c2,Jennifer Reyes,christianflores@gonzalez.com,692-592-1334x37224,Men,Shirts,Shirts - Relationship,XL,White,4,6378.15,Cash on Delivery,2025-07-11,Ahmedabad,25512.6
+3e0fb18b-03df-431e-95eb-07f9e1706c09,Catherine House,cesarbaker@hotmail.com,891.217.9510x264,Kids,Shorts,Shorts - Admit,XXL,Brown,3,3606.43,Wallet,2025-08-09,Pune,10819.29
+d398936e-5f41-40bf-86d7-bba6b0ca329d,Brianna Vincent,allisonallen@gmail.com,200-836-4752x87453,Men,Jeans,Jeans - Service,XS,Yellow,3,3520.75,Debit Card,2024-11-29,Kolkata,10562.25
+8d7df234-6d48-4157-a181-868c4670caa8,Zachary Patterson,tiffanylee@adams.org,111.868.8058x720,Kids,Sneakers,Sneakers - Sell,L,Yellow,3,3351.9,Cash on Delivery,2024-09-15,Hyderabad,10055.7
+3fd9d990-a3bb-46e4-a672-d6ad7305c24c,Ronnie Parker,grahamamber@bradley.com,001-893-657-2057x7866,Men,T-Shirts,T-Shirts - Senior,XL,Black,3,6383.83,Credit Card,2024-10-29,Bangalore,19151.49
+0ceab6de-5ae7-48f2-9df3-77569c3379e7,Jocelyn Fuller,michael00@yahoo.com,+1-182-056-2073x13198,Men,Jeans,Jeans - Name,XS,Green,4,5750.7,Wallet,2025-07-28,Chennai,23002.8
+bc7f4b3d-be7a-4fe5-8f6a-81a927bbd29e,Nichole Jackson,dakota88@yahoo.com,072.216.3702,Women,Jeans,Jeans - Others,XL,Blue,3,6234.6,Debit Card,2025-01-15,Hyderabad,18703.8
+dbf58d1d-d765-44a3-82e4-bd7a0f74f423,Meagan Spears,eking@yahoo.com,263.788.5876x26314,Women,Dresses,Dresses - Only,XXL,Black,3,2224.94,Wallet,2024-12-10,Ahmedabad,6674.82
+e9d603d2-13b6-44fb-8efb-9c6ff36c2134,Lee Berry,cfarley@gmail.com,(341)713-3099,Men,Shirts,Shirts - Short,S,Brown,3,1906.31,Credit Card,2025-04-16,Pune,5718.93
+e51822f3-5bf9-44e6-998b-f3fca8f7f391,Douglas Alvarez,schneidermichael@yahoo.com,001-940-692-6466x88482,Women,Dresses,Dresses - Particularly,XS,Pink,5,5192.23,UPI,2024-09-21,Mumbai,25961.15
+6cb63e3c-fd7b-43bc-8506-84bc76bb0753,Mr. Samuel Hayes,troy12@donovan-gibbs.com,(673)051-0254x5545,Women,Dresses,Dresses - Response,M,Brown,1,3174.82,UPI,2025-03-08,Delhi,3174.82
+4df43ebc-303b-431a-8e5b-ca1d5fc1893f,Brittany Hodge,elizabethgomez@hotmail.com,001-351-358-2863x84565,Men,Shoes,Shoes - Election,XXL,Yellow,4,7181.92,Wallet,2025-08-22,Mumbai,28727.68
+0e5eb02a-c393-48d3-b721-014643478552,Victoria Joseph,fwilliams@maxwell.org,639-580-1718,Men,Jeans,Jeans - Face,M,Brown,1,5150.55,Cash on Delivery,2024-12-25,Bangalore,5150.55
+3709af97-abd1-4a03-b090-e2ec898750b2,Jessica Mccormick,aaron67@gordon-collins.com,144-594-0015x6806,Kids,Jackets,Jackets - Reach,S,Beige,4,4977.49,Credit Card,2025-01-29,Pune,19909.96
+9635add4-4e8b-48a9-af96-74dc6f46bad0,Laura Moore,stephanie05@blair.com,3837630954,Kids,Sneakers,Sneakers - Develop,XL,Brown,2,7511.57,Cash on Delivery,2024-12-11,Ahmedabad,15023.14
+af90176d-fb52-4b86-bd71-e671de67f17c,Ronald Matthews,ufischer@yahoo.com,722.087.3579x62231,Women,Heels,Heels - Think,M,Green,3,811.38,Wallet,2025-01-16,Mumbai,2434.14
+02bef299-61ae-4a03-a348-069d893e8b72,Christopher Wilkins DDS,pharding@hotmail.com,254.561.3702x09006,Women,Jeans,Jeans - May,XXL,Beige,3,6809.61,Credit Card,2025-08-16,Mumbai,20428.83
+9b0bea42-6f0e-44e2-9b56-98b9833e5cea,Amy Martinez,awilliams@whitehead.org,645.161.9197,Women,Bags,Bags - Animal,S,Brown,4,3347.27,Cash on Delivery,2025-02-15,Mumbai,13389.08
+486e777b-975c-4fe8-8ac9-61efb5b2707e,Stephanie Smith,nancy86@hotmail.com,001-094-805-3822x5346,Women,Bags,Bags - Smile,XXL,Pink,4,1659.72,Credit Card,2025-08-22,Delhi,6638.88
+037b6551-b836-4a9d-a4f8-509adfa85ca1,Clayton Reynolds,gonzalezleslie@yahoo.com,001-419-919-2539x49748,Men,Jeans,Jeans - Media,M,Yellow,1,1289.77,Debit Card,2024-11-22,Hyderabad,1289.77
+1b19d355-bd1a-422b-8157-e5fac614d038,Ann Ford,ashley50@martinez.info,+1-591-229-1622x03197,Women,Tops,Tops - Call,S,Blue,4,6873.57,Debit Card,2025-07-07,Bangalore,27494.28
+9bc0081e-dd2b-45bf-98ba-aa9aa75b6211,Lindsey Clark,kquinn@wilcox-robertson.org,819-288-5520x917,Kids,Jackets,Jackets - Over,XXL,Black,5,4512.12,Cash on Delivery,2024-10-05,Delhi,22560.6
+59d9b7a0-f6ad-4a9c-b30f-6b8c7dc014a9,Ruben Horton,craigchristine@hotmail.com,+1-064-875-4072,Kids,T-Shirts,T-Shirts - Here,XS,Red,4,4091.26,Cash on Delivery,2025-01-28,Delhi,16365.04
+3599a2d1-f445-4bad-8dfa-cd5d3edd5306,Corey Evans,brownjeffrey@hotmail.com,(704)038-7149x09936,Men,Shirts,Shirts - Support,S,Black,5,5066.83,Wallet,2024-12-01,Ahmedabad,25334.15
+e9c2d155-0117-43ab-a589-71026e431968,Mason Sanford,mariochurch@yahoo.com,7448938883,Women,Jeans,Jeans - Return,S,Yellow,1,5911.64,Cash on Delivery,2025-07-14,Bangalore,5911.64
+c8b85a36-d355-491b-ae49-72421db0ee29,Jennifer Parker,kristingraves@hotmail.com,+1-195-544-7909,Women,Heels,Heels - Sea,M,Beige,5,5914.23,Cash on Delivery,2024-12-16,Mumbai,29571.15
+82df03b2-da28-4862-aef0-5746078455b2,Katherine Allen,stephanie52@campbell.com,+1-996-536-0246,Women,Jeans,Jeans - In,M,White,3,5051.12,Credit Card,2024-12-02,Chennai,15153.36
+17a4333f-c107-4019-b1d2-da7ba89c7fe1,Robin Joseph,cory02@hotmail.com,480.222.1102x78249,Men,T-Shirts,T-Shirts - Issue,XXL,Yellow,4,4876.71,UPI,2025-01-25,Bangalore,19506.84
+b7ba31ad-d749-409e-bd99-0fff9fad247b,Randy Leblanc,lloydkathryn@richardson-rodriguez.com,+1-777-562-8764x82763,Kids,Jackets,Jackets - Paper,S,Red,4,1494.73,Credit Card,2025-06-11,Pune,5978.92
+7e5db8a1-db1b-442f-970c-08add0d7c1a2,Richard Dorsey,agraham@alvarado.com,+1-583-278-5490x4316,Men,Jeans,Jeans - Organization,XL,Yellow,5,2999.31,Credit Card,2025-08-25,Hyderabad,14996.55
+70734ccc-0ed0-49cf-9e81-017c6821a855,Lisa Taylor,jeanhenderson@franklin.info,188-457-0672,Women,Dresses,Dresses - You,XS,Red,2,7407.06,Cash on Delivery,2025-02-06,Hyderabad,14814.12
+a47bf64b-c7c2-4698-ac6e-55f7be106d0d,Mr. Thomas Doyle,robert49@gmail.com,(907)949-1250,Men,T-Shirts,T-Shirts - Amount,L,Grey,3,5871.51,UPI,2025-06-22,Bangalore,17614.53
+a9be2227-b91a-421e-a036-5a64477b76fe,Natalie Schneider,johnlee@hobbs.biz,135.995.8192x6423,Men,Shirts,Shirts - Marriage,M,Beige,4,2628.52,Wallet,2025-01-28,Hyderabad,10514.08
+afcdf7af-4584-4c23-b036-cc855a4ed325,Adrian Adams,peterhardy@yahoo.com,796-070-4355,Kids,Shorts,Shorts - Stop,XL,Green,3,5887.71,Credit Card,2024-10-12,Pune,17663.13
+89142212-69f1-452f-ae00-d95bb52ed5db,Renee Simmons,rjones@riggs.info,+1-033-599-4248x5846,Kids,Jackets,Jackets - Be,S,Yellow,1,3897.7,Credit Card,2024-09-23,Mumbai,3897.7
+b15f6a05-0221-48e4-9451-2fe357245f6b,Wendy Turner,brandywilliams@hotmail.com,(239)746-3317,Men,Shoes,Shoes - Term,XS,Red,3,3611.12,UPI,2025-08-19,Chennai,10833.36
+76af92c6-0367-4dca-925b-11169f43f540,Samuel Holt,vcruz@hughes-novak.biz,700.295.4235x1799,Kids,T-Shirts,T-Shirts - Share,L,Grey,4,6425.32,Cash on Delivery,2024-11-03,Mumbai,25701.28
+8f573bea-0a33-4bdf-9ed5-d522aa268d8a,Dale Knox,mcgeeeric@tucker-garcia.org,001-587-396-4027,Kids,Shorts,Shorts - Late,S,White,2,2441.4,Cash on Delivery,2024-12-29,Mumbai,4882.8
+b2d10374-02f0-43b5-9835-6a64dfcc5c62,Victor Glenn,hooverlori@lopez.com,(989)801-8505x6670,Men,Jeans,Jeans - Middle,M,Brown,5,2865.7,Cash on Delivery,2025-03-11,Kolkata,14328.5
+e966fc3b-f926-4c0e-87c4-dd8da7c8280e,Michael Buckley,kmcdaniel@bass-taylor.com,9265237191,Men,Jeans,Jeans - Author,XL,Green,1,2592.92,UPI,2025-03-17,Delhi,2592.92
+bbdb8d50-2b23-44ce-8317-ecd53f07f025,Richard Phillips,audreymiller@gmail.com,(632)232-1358x828,Women,Heels,Heels - Manage,M,Green,1,1943.73,Credit Card,2024-12-07,Pune,1943.73
+a850ad77-167b-4cce-893a-8e78adbfaa05,Robert Harrison,david43@hotmail.com,+1-527-205-6597x41887,Men,Shirts,Shirts - Red,M,Yellow,2,5857.59,Wallet,2025-05-04,Mumbai,11715.18
+f68181df-00e1-4f78-8af5-643bab532398,Michael Bennett,johnsonjulie@yahoo.com,001-552-971-4136x2909,Kids,T-Shirts,T-Shirts - No,XXL,Brown,4,2478.27,Wallet,2025-01-26,Mumbai,9913.08
+d3d893ea-eb66-4685-88f8-7c5aad789cca,Paul Pierce,mcdonaldnatalie@nunez-phelps.net,001-362-246-8954x4252,Men,Shirts,Shirts - Language,XL,Red,2,7543.89,Cash on Delivery,2024-12-14,Pune,15087.78
+df3eb36d-f14c-4ae6-a774-eb76805b8843,Richard Leblanc,watkinslori@lopez-walter.com,(997)916-6485x0496,Kids,T-Shirts,T-Shirts - Feel,XL,Beige,3,2675.23,UPI,2024-10-05,Chennai,8025.69
+4dd48475-fe10-4842-b668-c0e52b29cd51,Natasha Riley,brandonhodges@gmail.com,860.589.4839,Kids,Jackets,Jackets - Everybody,S,Black,2,6178.94,UPI,2025-07-04,Chennai,12357.88
+5050cb41-57a4-48e1-bb89-ade074872d0e,Rebecca Hernandez,ymarquez@gmail.com,480-523-5647x67403,Men,T-Shirts,T-Shirts - Sound,XS,Yellow,1,3273.65,UPI,2025-03-26,Kolkata,3273.65
+34e1cbc1-7c40-4f25-a58c-90228b4ac522,Debra Clark,davidhorton@gmail.com,+1-392-370-3054x918,Men,T-Shirts,T-Shirts - Take,XL,Black,2,3040.71,Cash on Delivery,2025-01-20,Kolkata,6081.42
+fb371b7d-87e1-4024-9510-2139d8700fcb,Jesse Alvarez,lcole@becker.info,276.699.7747,Men,Shoes,Shoes - International,XL,Yellow,5,2428.77,Debit Card,2024-11-13,Hyderabad,12143.85
+f074b0ad-5a14-4503-8c76-79d328a3171d,Jon Garcia,danielsolomon@torres-wallace.com,001-383-235-3186,Kids,Jackets,Jackets - Sit,XXL,Brown,4,2869.78,Debit Card,2025-05-26,Bangalore,11479.12
+964be95f-4e21-4901-9feb-28a34db1d6fe,Curtis Atkinson,hoganseth@yahoo.com,8692821095,Kids,Shorts,Shorts - Name,M,Yellow,1,3000.98,UPI,2025-01-08,Pune,3000.98
+be24d078-11fc-4b79-a742-d0912da5b131,Jeff Spencer,llewis@wallace.com,001-233-337-5893x099,Kids,Shorts,Shorts - Remain,M,Green,5,2686.51,Wallet,2025-09-06,Mumbai,13432.55
+f7c00006-694d-4cd8-bafb-0da4444d46ae,Antonio Neal,mcbrideallison@yahoo.com,(783)015-4950x8174,Men,Shirts,Shirts - Skin,M,Yellow,3,4977.58,Cash on Delivery,2025-07-30,Ahmedabad,14932.74
+8fd666b0-ada2-4e37-af71-5f2ff42f7047,Beth Daniel,garciatom@gmail.com,+1-079-299-1968x59180,Men,Jeans,Jeans - Choose,L,Red,4,5500.88,Debit Card,2024-10-25,Hyderabad,22003.52
+907be82c-ccd1-4803-a366-6a53f29f349e,Richard Daniels,andrew22@jefferson-long.com,202.438.0888,Men,Shoes,Shoes - Probably,M,Green,4,3403.44,UPI,2024-09-26,Delhi,13613.76
+c08b9503-b6d2-407b-ac8f-bbfe9facb0c4,Dustin Russell,ohunt@taylor.com,564-117-4970x21753,Women,Jeans,Jeans - Affect,S,Pink,2,3860.34,Cash on Delivery,2025-04-08,Kolkata,7720.68
+aea097fe-44da-45a7-9367-b6f96cb56caa,Janet Nelson,angela24@gmail.com,521-569-1130x60108,Women,Tops,Tops - Serious,M,Brown,2,6988.73,UPI,2025-06-19,Mumbai,13977.46
+3e3553cd-cba7-478e-a2e6-27d6f78aed35,Jamie Burns,kennethwood@yahoo.com,635.618.6036,Men,Jackets,Jackets - Then,M,Black,5,1635.46,UPI,2025-05-21,Mumbai,8177.3
